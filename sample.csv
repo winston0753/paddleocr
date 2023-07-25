@@ -11,17 +11,17 @@
 9,,,,emtansine,emtansine,emtansine
 10,,,,tucatinib,tucatinib,tucatinib
 11,ERBB3,48.0% (of 629,48.0% (of 629,afatinib,afatinib,afatinib
-12,c.3380G>A,reads),p.Rl127H,bosutinib,p.Rl127H,p.Rl127H
+12,p.Rl127H,p.Rl127H,p.Rl127H,p.Rl127H,p.Rl127H,p.Rl127H
 13,g.56101239G>A,g.56101239G>A,g.56101239G>A,dacomitinib,dacomitinib,dacomitinib
 14,Tier 3,Tier 3,Tier 3,neratinib,neratinib,neratinib
 15,Uncertain,Uncertain,Uncertain,osimertinib,osimertinib,osimertinib
-16,Significance,Significance,Significance,osimertinib,Significance,Significance
+16,Significance,Significance,Significance,Significance,Significance,Significance
 17,FGFR4,48.0% (of 145 reads),48.0% (of 145 reads),erdafitinib,erdafitinib,erdafitinib
 18,c.1871A>C,c.1871A>C,c.1871A>C,futibatinib,futibatinib,futibatinib
-19,p.N624T,p.N624T,p.N624T,futibatinib,p.N624T,p.N624T
+19,p.N624T,p.N624T,p.N624T,p.N624T,p.N624T,p.N624T
 20,g.177096106A>C,g.177096106A>C,g.177096106A>C,infigratinib,infigratinib,infigratinib
 21,Tier 3,Tier 3,Tier 3,lenvatinib,lenvatinib,lenvatinib
-22,Uncertain,Uncertain,Uncertain,lenvatinib,ponatinib,ponatinib
+22,Uncertain,Uncertain,Uncertain,ponatinib,ponatinib,ponatinib
 23,Significance,Significance,Significance,ponatinib,ponatinib,ponatinib
 24,,,,regorafenib,regorafenib,regorafenib
 25,JAK3,58.0% (of 262,58.0% (of 262,ruxolitinib,ruxolitinib,ruxolitinib
