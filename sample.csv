@@ -1,0 +1,45 @@
+,0,1,2,3,4,5
+0,,Accession ID: NGSO-221209001,Accession ID: NGSO-221209001,Accession ID: NGSO-221209001,Accession ID: NGSO-221209001,Page 5 of 76
+1,,"Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN"
+2,,,Diagnosis: gastric cancer,Diagnosis: gastric cancer,"Report Date: Dec 19,2022",Diagnosis: gastric cancer
+3,YOUR LAB,"Report Date: Dec 19,2022","Report Date: Dec 19,2022","Report Date: Dec 19,2022","Report Date: Dec 19,2022","Report Date: Dec 19,2022"
+4,,,,Approved Therapies,Approved Therapies,Approved Therapies
+5,,,,,Associated With,Clinical
+6,Gene /Variant,Allelic Fraction,Gastric Cancer,Other Indications,Resistance,Trials
+7,,,,pertuzumab,pertuzumab,pertuzumab
+8,,,,trastuzumab,trastuzumab,trastuzumab
+9,,,,emtansine,emtansine,emtansine
+10,,,,tucatinib,tucatinib,tucatinib
+11,ERBB3,48.0% (of 629,48.0% (of 629,afatinib,afatinib,afatinib
+12,c.3380G>A,reads),p.Rl127H,bosutinib,p.Rl127H,p.Rl127H
+13,g.56101239G>A,g.56101239G>A,g.56101239G>A,dacomitinib,dacomitinib,dacomitinib
+14,Tier 3,Tier 3,Tier 3,neratinib,neratinib,neratinib
+15,Uncertain,Uncertain,Uncertain,osimertinib,osimertinib,osimertinib
+16,Significance,Significance,Significance,osimertinib,Significance,Significance
+17,FGFR4,48.0% (of 145 reads),48.0% (of 145 reads),erdafitinib,erdafitinib,erdafitinib
+18,c.1871A>C,c.1871A>C,c.1871A>C,futibatinib,futibatinib,futibatinib
+19,p.N624T,p.N624T,p.N624T,futibatinib,p.N624T,p.N624T
+20,g.177096106A>C,g.177096106A>C,g.177096106A>C,infigratinib,infigratinib,infigratinib
+21,Tier 3,Tier 3,Tier 3,lenvatinib,lenvatinib,lenvatinib
+22,Uncertain,Uncertain,Uncertain,lenvatinib,ponatinib,ponatinib
+23,Significance,Significance,Significance,ponatinib,ponatinib,ponatinib
+24,,,,regorafenib,regorafenib,regorafenib
+25,JAK3,58.0% (of 262,58.0% (of 262,ruxolitinib,ruxolitinib,ruxolitinib
+26,c.2660G>A,reads),reads),reads),reads),reads)
+27,p.R887H,p.R887H,p.R887H,p.R887H,p.R887H,p.R887H
+28,g.17832539C>T,g.17832539C>T,g.17832539C>T,g.17832539C>T,g.17832539C>T,g.17832539C>T
+29,Tier 3,Tier 3,Tier 3,Tier 3,Tier 3,Tier 3
+30,Uncertain,Uncertain,Uncertain,Uncertain,Uncertain,Uncertain
+31,Significance,Significance,Significance,Significance,Significance,Significance
+32,Variants of Unknown Clinical Significance,Variants of Unknown Clinical Significance,Variants of Unknown Clinical Significance,Variants of Unknown Clinical Significance,Variants of Unknown Clinical Significance,Variants of Unknown Clinical Significance
+33,Gene / Variant, Allelic Fraction,Function,Classification,Assessment,Assessment
+34,AMERI,6.43% (of 311 reads),normal,Tier 3,Uncertain Significance,Uncertain Significance
+35,c.l646G>A,c.l646G>A,c.l646G>A,c.l646G>A,c.l646G>A,c.l646G>A
+36,p.R549Q,p.R549Q,p.R549Q,p.R549Q,p.R549Q,p.R549Q
+37,g.6419164lC>T,g.6419164lC>T,g.6419164lC>T,g.6419164lC>T,g.6419164lC>T,g.6419164lC>T
+38,CRLF2,43.0% (of 326,loss,Tier 3,Uncertain Significance,Uncertain Significance
+39,c.29C>T,reads),reads),reads),reads),reads)
+40,p.P1OL,p.P1OL,p.P1OL,p.P1OL,p.P1OL,p.P1OL
+41,g.1202520G>A,g.1202520G>A,g.1202520G>A,g.1202520G>A,g.1202520G>A,g.1202520G>A
+42,EPCAM,36.0% (of 163 reads),normal,Tier 3,Uncertain Significance,Uncertain Significance
+43,c.93C>G,c.93C>G,c.93C>G,c.93C>G,c.93C>G,c.93C>G
