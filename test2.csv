@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6,7,8
+24,,,"Approved Therapies in Gastric
+Cancer",,,"Approved Therapies in Other
+Indications",,,"Clinical
+Trials"
+25,"Tumor Mutation Burden:
+TMB-low (2.78 Mutations
+/Megabase)
+Tier 2C",,,,,"cetuximab
+ipilimumab/nivolumab",,,
+26,"Microsatellite Status:
+MS-stable
+Tier 2C",,,,,"5-fluorouracil
+5-fluorouracil/leucovorin
+5-fluorouracil/leucovorin/oxaliplatin
+capecitabine
+capecitabine/oxaliplatin
+cetuximab
+fluoropyrimidine
+lenvatinib/pembrolizumab",,,6
+27,Actionable Variants With Associated Therapies,,,,,Approved Therapies,,,
+28,Gene/Variant,Allelic Fraction,,Gastric Cancer,,Other Indications,"Associated With
+Resistance",,"Clinical
+Trials"
+29,"CDKN2A
+c.247C>T
+p.H83Y
+g.21971112G>A
+Tier 2C
+Pathogenic","9.22% (of 206
+reads)",,,,,,,2

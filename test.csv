@@ -1,66 +1,1731 @@
 ,0,1,2,3,4,5,6,7,8
-0,YOURLAB,,"Accession ID:NGSO-221209001
+0,YOURLAB,"Accession ID:NGSO-221209001
 Patient Name: LAN ZHENG,MEI-CHAN
-Diagnosis: gastric cancer",,,,Page 6 of 76,,
-1,Gene/Variant,,Allelic Fraction,Function,Classification,Assessment,,,
-2,"p.N31K
+Diagnosis: gastric cancer",,,Page 22 of 76,,,,
+1,"Therapies for
+Other Indications",Gene/Variant,Response,Therapies Description,,,,,
+2,,,,"osimertinib is FDA-approved for treating adult
+patients with NSCLC whose tumors have EGFR exon
+19 deletions or exon 21 L858R mutations, as detected
+by an FDA-approved test, as adjuvant therapy after
+tumor resection;and metastatic EGFR T790M
+mutation-positive NSCLC,as detected by an FDA-
+after EGFR TKI therapy; osimertinib is EMA-approved
+for treating adult patients with stage IB-IIIA NSCLC
+whose tumours have EGFR exon 19 deletions or exon
+21 (L858R) substitution mutations, as adjuvant
+treatment after complete tumour resection; and
+locally advanced or metastatic ECFR T79OM
+mutation-positive NSCLC.",,,,,
+3,paclitaxel,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic
+ERBB2
+g.39708441G>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Paclitaxel, a microtubule inhibitor, is FDA-and EMA-
+approved for treating patients with metastatic breast
+cancer,after failure of combination chemotherapy
+for metastatic disease orrelapse within 6 months of
+adjuvant chemotherapy including an anthracycline
+metastatic non-small cell lung cancer as first-line
+curative surgery or radiation therapy; metastatic
+adenocarcinoma of the pancreas as first-line
+treatment, in combination with gemcitabine;
+paclitaxel is also FDA-approved for treating patients
+with advanced carcinoma of the ovary as
+subsequent therapy and as first-line therapy in
+combination with cisplatin; node-positive breast
+cancer administered seguentially to standard
+doxorubicin-containing combination chemotherapy;
+and AIDS-related Kaposi's sarcoma as second-line
+treatment; paclitaxel is also EMA-approved in
+combination with carboplatin for treating adult
+patients with first relapse of platinum-sensitive
+epithelial ovarian cancer, primary peritoneal cancer
+and fallopian tube cancer.",,,,,
+4,panitumumab,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Resistance,"Panitumumab,an epidermal growth factor receptor
+(EGFR) antagonist, is FDA- and EMA-approved for
+treating patients with wild-type RAS (defined as wild-
+type in both KRAS and NRAS) metastatic colorectal
+cancer in combination with FOLFOX for first-line
+treatment, as monotherapy following disease
+progression after prior treatment with
+fluoropyrimidine, oxaliplatin,and irinotecan-
+containing chemotherapy; and panitumumab is
+EMA-approved for treating patients with wild-type
+RAS metastatic colorectal cancer in first-line in",,,,,
+6,"Therapies for
+Other Indications",Gene/Variant,Response,"Therapies Description
+companion diagnostic who have residual invasive
+disease after neoadjuvant taxane and trastuzumab-
+based treatment.",,,,,
+7,tucatinib,"ERBB2
+p.V116M
+g.3970844lG>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Tucatinib,a kinase inhibitor,in combination with
+trastuzumab and capecitabine,is FDA-approved for
+treating adult patients with advanced unresectable
+or metastatic HER2-positive breast cancer, including
+patients with brain metastases, who have received
+one or more prior anti-HER2-based regimens in the
+metastatic setting; tucatinib, in combination with
+trastuzumab and capecitabine,is EMA-approved for
+treating adult patients with HER2-positive locally
+advanced or metastatic breast cancer who have
+received at least 2 prior anti-HER2 treatment
+regimens.",,,,,
+8,erdafitinib,"p.N624T
+g.177096106A>C
+Tier 3
+Uncertain
+Significance",Sensitive,"Erdafitinib, a kinase inhibitor,is FDA-approved for
+treating adult patients with locally advanced or
+metastatic urothelial carcinoma that has susceptible
+FGFR3 or FGFR2 genetic alterations as detected by
+an FDA-approved companion diagnostic and
+progressed during or following at least one line of
+prior platinum-containing chemotherapy including
+within 12 months of neoadjuvant or adjuvant
+platinum-containing chemotherapy.",,,,,
+9,futibatinib,"FGFR4
+p.N624T
+g.177096106A>C
+Tier 3
+Uncertain
+Significance",Sensitive,"Futibatinib, a kinase inhibitor, is FDA-approved for
+treating adult patients with previously treated,
+unresectable, locally advanced or metastatic
+intrahepatic cholangiocarcinoma harboring
+fibroblast growth factor receptor 2 (FGFR2) gene
+fusions or other rearrangements.",,,,,
+10,infigratinib,"FGFR4
+p.N624T
+g.177096106A>C
+Tier 3
+Uncertain
+Significance",Sensitive,"Infigratinib, a kinase inhibitor, is FDA-approved for
+treating adult patients with previously treated,
+unresectable locally advanced or metastatic
+cholangiocarcinoma with a fibroblast growth factor
+detected by an FDA-approved test.",,,,,
+11,lenvatinib,"FGFR4
+p.N624T
+g.177096106A>C
+Tier 3
+Uncertain
+Significance",Sensitive,"Lenvatinib, a kinase inhibitor, is FDA- and EMA-
+approved for treating patients with locally recurrent
+or metastatic, progressive, radioactive iodine-
+refractory differentiated thyroid cancer; in
+combination with everolimus for treating patients
+prior anti-angiogenic therapy; and for the first-line
+treatment of patients with unresectable
+hepatocellular carcinoma; lenvatinib, in combination
+with pembrolizumab, is FDA-approved for treating",,,,,
+13,"Therapies for
+Other Indications","Gene/Variant
+Uncertain
+Significance
+ERBB3
+p.R1127H
+g.56101239G>A
+Tier 3
+Uncertain
+Significance",Response,"Therapies Description
+Significance
+osimertinib is FDA-approved for treating adult
+19 deletions or exon 21 L858R mutations, as detected
+by an FDA-approved test,as adjuvant therapy after
+tumor resection;and metastatic EGFR T79OM
+mutation-positive NSCLC, as detected by an FDA
+Significance
+after EGFR TKI therapy;osimertinib is EMA-approved
+for treating adult patients with stage IB-IIIA NSCLC
+whose tumours have EGFR exon 19 deletions or exon
+21 (L858R) substitution mutations, as adjuvant
+treatment after complete tumour resection; and
+ocally advanced or metastatic EGFRT79OM
+mutation-positive NSCLC.","mutations, as detected by an FDA-approved test;
+approved test, whose disease has progressed on or",,,,
+14,pertuzumab,"ERBB2
+p.V116M
+g.39708441G>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Pertuzumab,a HER2/neu receptor antagonist, in
+combination with trastuzumab and docetaxel, is
+FDA- and EMA-approved for treating patients with
+HER2-positive metastatic breast cancer who have
+not received prior anti-HER2 therapy or
+chemotherapy for metastatic disease; in
+combination with trastuzumab and chemotherapy,
+for neoadjuvant treatment of patients with HER2
+positive, locally advanced, inflammatory, or early
+stage breast cancer (either greater than 2 cm in
+diameter or node positive) as part of a complete
+treatment regimen for early breast cancer;and in
+combination with trastuzumab and chemotherapy,
+for adjuvant treatment of patients with HER2-
+positive early breast cancer at high risk of
+recurrence; pertuzumab, in combination with
+trastuzumab and docetaxel, is EMA-approved for
+treating adult patients with HER2-positive locally
+recurrent unresectable breast cancer, who have not
+received previous anti-HER2 therapy or
+chemotherapy for their metastatic disease.",,,,,
+15,"trastuzumab
+emtansine","ERBB2
+p.V116M
+g.3970844IG>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Trastuzumab emtansine, a HER2-targeted antibody
+and microtubule inhibitor conjugate, is FDA- and
+EMA-approved for treating patients with HER2-
+positive metastatic breast cancer as detected by an
+FDA-approved companion diagnostic who
+previously received trastuzumab and a taxane,
+separately or in combination (patients should have
+either received prior therapy for metastatic disease,
+or developed disease recurrence during or within six
+months of completing adjuvant therapy);
+trastuzumab emtansine is also FDA-approved for the
+adjuvant treatment of patients with HER2-positive
+early breast cancer as detected by an FDA-approved",,,,,
+17,"Therapies for
+Other Indications","Gene/Variant
+g.25245350C>G
+Tier 2C
+Pathogenic",Response,"Therapies Description
+cancer (NSCLC) whose tumors have epidermal
+growth factor receptor (EGFR) exon 19 deletions or
+exon21(L858R) substitution mutations as detected
+by an FDA-approved test receiving first-line,
+maintenance,or second or greater line treatment
+after progression following at least one prior
+chemotherapy regimen; and for the first-line
+treatment of patients with locally advanced,
+unresectable or metastatic pancreatic cancer,in
+combination with gemcitabine; erlotinib is EMA-
+with EGFR activating mutations for the first-line
+treatment;locally advanced or metastatic NsCLC
+with EGFR activating mutations and stable disease
+for switch maintenance treatment after first-line
+chemotherapy;locally advanced or metastatic
+NSCLC after failure of at least one prior
+chemotherapy regimen (in patients with tumours
+without EGFR activating mutations, erlotinib is
+indicated when other treatment options are not
+considered suitable); and metastatic pancreatic
+cancer, in combination with gemcitabine.",,,,,
+18,gefitinib,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Resistance,"Gefitinib,a tyrosine kinase inhibitor,is FDA-and EMA
+approved for the first-line treatment of patients with
+metastatic non-small cell lung cancer (NSCLC)
+whose tumors have epidermal growth factor
+receptor (EGFR) exon 19 deletions or exon 21 (L858R)
+substitution mutations as detected by an FDA-
+approved test.",,,,,
+19,gemcitabine,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic
+ERBB2
+g.3970844IG>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Gemcitabine, a nucleoside metabolic inhibitor, is
+FDA-approved as a single agent for treating patients
+with pancreatic cancer; in combination with
+carboplatin,for treating relapsed advanced ovarian
+cancer previously treated with platinum-based
+treatment of metastatic breast cancer after failure of
+contraindicated; and in combination with cisplatin,
+for treating non-small cell lung cancer.",,,,,
+20,osimertinib,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Resistance,"Osimertinib, a kinase inhibitor, is FDA- and EMA-
+approved for the first-line treatment of adult patients
+with metastatic non-small cell lung cancer (NSCLC)
+whose tumors have epidermal growth factor
+receptor (EGFR) exon 19 deletions or exon 21 L858R
+mutations, as detected by an FDA-approved test;",,,,,
+22,"Therapies for
+Other Indications",Gene/Variant,Response,Therapies Description,,,,,
+23,,,,"patients with advanced endometrial carcinoma that
+is not microsatellite instability-high (MSI-H) or
+mismatch repair deficient (dMMR), who have disease
+progression following prior systemic therapy in any
+setting and are not candidates for curative surgery or
+radiation; and in combination with pembrolizumab,
+for the first-line treatment of adult patients with
+advanced renal cell carcinoma (RcC).",,,,,
+24,ponatinib,"p.N624T
+g.177096106A>C
+Tier 3
+Uncertain
+Significance",Sensitive,"Ponatinib, a kinase inhibitor, is FDA-approved for
+treating adult patients with chronic phase,
+accelerated phase,or blastphase chronic myeloid
+leukemia (CML) or Philadelphia chromosome
+positive acute lymphoblastic leukemia (Ph+ ALL) for
+whom no other tyrosine kinase inhibitor (TKI)
+therapy is indicated; T315I-positive CML (chronic
+phase,accelerated phase,or blast phase)or T315l-
+positive Ph+ ALL;ponatinib is EMA-approved for
+treating adult patients with chronic phase,
+accelerated phase,or blast phase chronic myeloid
+leukaemia (CML) who are resistant to dasatinib or
+nilotinib,who are intolerant to dasatinib or nilotinib
+and for whom subsequent treatment with imatinib
+is not clinically appropriate,or who have the T3151
+mutation;and adult patients with Ph+ALLwho are
+resistant to dasatinib, who are intolerant to dasatinib
+and for whom subsequent treatment with imatinib
+is not clinically appropriate, or who have the T315I
+mutation.",,,,,
+25,"ruxolitinib
+
+
+
+
+
+
+
+
+
+
+Available Clinical Trials","JAK3
+p.R887H
+g.17832539C>T
+Tier 3
+Uncertain
+Significance",Sensitive,"Ruxolitinib,a kinase inhibitor.is FDA-and EMA
+approved for treating adult patients with
+intermediate or high-risk myelofibrosis, including
+primary myelofibrosis, post-polycythemia vera
+myelofibrosis and post-essential thrombocythemia
+myelofibrosis; and polycythemia vera who have had
+an inadequate response to or are intolerant of
+hydroxyurea; ruxolitinib is also FDA-approved for
+treating adultandpediatricpatients12years and
+older with steroid-refractory acute graft-versus-host
+disease.",,,,,
+26,Gene/Variant,"Trial Title
+Trial ID",,Treatments,"Trial
+Phase","Trial ID
+Location/Contact",,,
+27,"MS-stable
+Tier 2C","A Phase lb, Open-label, Dose-escalation
+the Safety, Tolerability,
+the Safety, Tolerability,",,"pembrolizumab
+tesirine",Phasel,"United States: CA, CT,
+ADC Therapeutics;",,,
+29,"Therapies for
+Other Indications",Gene/Variant,Response,Therapies Description,,,,,
+30,,,,"combination with FOLFIRI, and in second-line in
+combination with FOLFIRI for those who have
+received first-line fluoropyrimidine-based
+chemotherapy (excluding irinotecan).",,,,,
+31,pemetrexed,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic
+ERBB2
+g.39708441G>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Pemetrexed, a folate analog metabolic inhibitor,is
+FDA- and EMA-approved for treating patients with
+locally advanced or metastatic nonsquamous non-
+small cell lung cancer as initial treatment in
+combination with cisplatin, or single-agent
+has notprogressed after four cycles of platinum-
+metastatic, nonsquamous non-small cell lung
+cancer, and for malignant pleural mesothelioma as
+initial treatment in combination with cisplatin for
+patients whose disease is unresectable or who are
+otherwise not candidates for curative surgery;
+pemetrexed is also FDA-approved for treating
+patients with metastatic,nonsquamous non-small
+cell lung cancer with no EGFR or ALK genomic
+tumor aberrations as initial treatment in
+combination with pembrolizumab and platinum
+chemotherapy.",,,,,
+32,ramucirumab,"KRAS
+p.G12A
+g.2524535OC>G
+Tier 2C
+Pathogenic",Sensitive,"Ramucirumab,a VEGFR2 antagonist,is FDA-and
+EMA-approved, as a single agent or in combination
+with paclitaxel, for treating patients with advanced
+or metastatic gastric or gastro-esophagealjunction
+adenocarcinoma, with disease progression on or
+after prior fluoropyrimidine- or platinum-containing
+chemotherapy; in combination with erlotinib, for first-
+line treatment of patients with metastatic non-small
+cell lung cancer with epidermal growth factor
+receptor(EGFR)exon19 deletions or exon 21(L858R)
+mutations; in combination with docetaxel, for
+treating patients with metastatic non-small cell lung
+cancer with disease progression on or after platinum-
+based chemotherapy (patients with EGFR or ALK
+genomic tumor aberrations should have disease
+progression on approved therapy for these
+aberrations prior to receiving ramucirumab);in
+combination with FOLFIRI, for treating patients with
+metastatic colorectal cancerwith disease
+progression on or after prior therapywith
+bevacizumab, oxaliplatin, and a fluoropyrimidine;
+and, as a single agent, for treating patients with
+hepatocellular carcinomawhohave an alpha
+fetoprotein of  400 ng/mL and have been treated
+with sorafenib.",,,,,
+34,"Therapies for
+Other Indications
+regorafenib","Gene/Variant
+KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic
+FGFR4
+p.N624T
+g.177096106A>C
+Tier 3
+Uncertain
+Significance","Response
+Sensitive","Therapies Description
+Regorafenib, a kinase inhibitor, is FDA-and EMA
+approved for treating patients with metastatic
+colorectal cancer who have been previously treated
+with fluoropyrimidine-,oxaliplatin-and irinotecan-
+based chemotherapy,an anti-VEGF therapy,and, if
+advanced,unresectable or metastatic
+gastrointestinal stromal tumor (GIST) in patients who
+have been previously treatedwith imatinib mesylate
+and sunitinib malate;hepatocellular carcinoma
+(HCC) in patients who have been previously treated
+with sorafenib.",,,,,
+35,selumetinib,"p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",,"Selumetinib, a kinase inhibitor, is FDA-approved for
+treating pediatric patients 2years of age and older
+with neurofibromatosis type 1 (NFI) who have
+symptomatic,inoperable plexiform neurofibromas
+(PN).",,,,,
+36,sotorasib,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Sensitive,"Sotorasib, an inhibitor of the RAS GTPase family, is
+FDA-approved for treating adult patients with KRAS
+Gl2C-mutated locally advanced or metastatic non-
+small cell lung cancer (NSCLC), as determined by an
+FDA-approved test,who have received at least one
+prior systemic therapy.",,,,,
+37,tipiracil,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Sensitive,,,,,,
+38,trametinib,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Sensitive,"Trametinib, a kinase inhibitor, is FDA- and EMA-
+approved as a single agent for treating BRAF
+inhibitor treatment-naive patients with unresectable
+or metastatic melanoma with BRAF V600E or V600K
+mutations as detected by an FDA-approved test; in
+combination with dabrafenib for treating patients
+with unresectable or metastatic melanoma with
+BRAF V600E or V600K mutations as detected by an
+FDA-approved test;for the adjuvant treatment of
+patientswith melanoma with BRAFV60OE orV6OOK
+mutations, as detected by an FDA-approved test,
+and involvement of lymph node(s), following
+complete resection;and for treating patients with
+metastatic non-small cell lung cancer (NSCLC) with
+BRAF V600E mutation as detected by an FDA
+approved test; trametinib, in combination with
+dabrafenib, is FDA-approved for treating patients
+with locally advanced or metastatic anaplastic
+thyroid cancer(ATC)with BRAFV6OOE mutation and",,,,,
+40,Gene/Variant,"Trial Title
+Trial ID",Treatments,"Trial
+Phase",Location/ Contact,,,,
+41,"Uncertain
+Significance","Pharmacokinetics, and Antitumor
+Activity of Camidanlumab Tesirine
+(ADCT-301) as Monotherapy or in
+Combination in Patients With Selected
+Advanced Solid Tumors
+NCT03621982",,,"clinical.trials@adcth
+erapeutics.com;
+954-903-7994;",,,,
+42,"MS-stable
+Uncertain
+Significance
+Significance","A Phase 1 Open Label, Multi-Arm,
+Monotherapy and in Combination With
+Pembrolizumab for Participants With
+Advanced Solid Tumors
+Advanced Solid Tumors
+NCT03564691","carboplatin
+lenvatinib
+pembrolizumab
+pemetrexed",Phasel,"United States: MO,
+1-888-577-8839;",,,,
+43,"MS-stable
+Uncertain
+Uncertain
+Significance","A Phase lA/B Study to Evaluate the
+a Single Agent and in Combination
+With Pembrolizumab in Advanced
+Solid Tumours
+NCT02521844
+NCT02521844",pembrolizumab,"Phasel
+a Single Agent and in Combination","United States: CO,
+MD;
+Venkateshan_Srirangam
++65 6407 4213;",,,,
+44,"MS-stable
+Tier 2C
+Uncertain
+Significance","A Phase 1b/2, Open-Label, Safety,
+Tolerability and Efficacy Study of NC410
+Plus Pembrolizumab for Participants
+With Advanced Unresectable and/or
+MetastaticImmune Checkpoint
+Inhibitor (ICI) Refractory Solid Tumors
+or ICI Naive MSS/MSI-Low Solid Tumors
+NCT05572684",pembrolizumab,"Phasel
+/Phase2","United States: NJ, TX
+Associate Director
+Clinical Operations at
+NextCure, Inc.;
+Ncclin@nextcure.
+com859-468-8632",,,,
+45,"MS-stable
+Tier 2C
+Uncertain
+Significance","APhase1b/2Open-Label Study of the
+Efficacy and Safety of Etigilimab
+(MPH313) Administered in Combination
+With Nivolumab to Subjects With
+Tumors (ACTIVATE)
+NCT04761198
+NCT04761198",nivolumab,,"United States: AZ, CA,
+NY, OK, TN, TX, UT, VA
+Bill Feely;
+1650 995 8200;",,,,
+46,"MS-stable
+Tier 2C
+Uncertain
+Significance","A Phase 1/2 Study of IDE196 in Patients
+With Solid Tumors Harboring GNAQ/ll
+Mutations or PRKC Fusions
+NCTO3947385","binimetinib
+LXS196",Phasel,"United States:AZ, CA,
+PA,TN, TX
+IDEAYA Clinical
+Trials;
+IDEAYAClinicalTrials@
+ideayabio.com;
++1 650 534 3616;",,,,
+48,"Therapies for
+Other Indications
+lapatinib","Gene/Variant
+ERBB2
+p.V116M
+g.3970844IG>A
+Tier 3
+Uncertain
+Significance","Response
+Sensitive","Therapies Description
+Lapatinib, a kinase inhibitor, in combination with
+capecitabine, is FDA- and EMA-approved for treating
+patients with advanced or metastatic breast cancer
+whose tumors overexpress HER2and who have
+received prior therapy including an anthracycline, a
+taxane, and trastuzumab; in combination with
+letrozole for treating postmenopausal women with
+hormone receptor-positive metastaticbreast cancer
+that overexpresses the HER2 receptor for whom
+hormonal therapy is indicated; lapatinib, in
+combination with trastuzumab, is EMA-approved for
+treating patients with hormone receptor-negative
+metastatic disease that has progressed on prior
+trastuzumab therapy(ies) in combination with
+chemotherapy.",,,,,
+49,margetuximab,"ERBB2
+p.V116M
+g.3970844lG>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Margetuximab-cmkb, a HER2/neu receptor
+antagonist, in combination with chemotherapy, is
+FDA-approved for treating adult patients with
+metastatic HER2--positive breast cancer who have
+received two or more prior anti-HER2 regimens, at
+least one of which was for metastatic disease.",,,,,
+50,mobocertinib,"ERBB2
+p.V116M
+g.39708441G>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Mobocertinib, a kinase inhibitor, is FDA-approved for
+treating adultpatientswith locally advanced or
+metastatic non-small cell lung cancer (NSCLC) with
+epidermal growth factor receptor (ECFR) exon 20
+insertion mutations, as detected by an FDA-
+approved test,whose disease has progressed on or
+after platinum-based chemotherapy.",,,,,
+51,neratinib,"ERBB2
+p.V116M
+g.3970844lG>A
+Tier 3
+Uncertain
+Significance
+ERBB3
+p.R1127H
+Tier 3
+Uncertain
+Significance",Sensitive,"Neratinib, a kinase inhibitor, is FDA-approved as a
+single agent for the extended adjuvant treatment of
+adult patients with early stage HER2-positive breast
+cancer, to follow adjuvant trastuzumab-based
+therapy; and, in combination with capecitabine, for
+treating adult patients with advanced or metastatic
+or more prior anti-HER2 based regimens in the
+metastatic setting; neratinib is EMA-approved for the
+overexpressed/amplified breast cancer and who
+completed adjuvant trastuzumab-based therapy less
+ than one year ago.",,,,,
+52,osimertinib,"p.V116M
+g.39708441G>A
+Tier 3",,"Osimertinib, a kinase inhibitor, is FDA- and EMA-
+approved for the first-line treatment of adult patients
+with metastatic non-small cell lung cancer (NSCLC)
+whose tumors have epidermal growth factor
+receptor(EGFR) exon19 deletions or exon 21 L858R",,,,,
+54,"Therapies for
+Other Indications",Gene/Variant,Response,Therapies Description,,,,,
+55,idelalisib,"TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Idelalisib, a kinase inhibitor, is FDA-approved for
+treating patients with relapsed chronic lymphocytic
+leukemia (CLL), in combination with rituximab, in
+patients for whom rituximab alone would be
+considered appropriate therapy due to other co-
+morbidities; relapsed follicular B-cell non-Hodgkin
+lymphoma (FL) in patients who have received at
+least two prior systemic therapies; relapsed small
+received at least two prior systemic therapies;
+idelalisib, in combination with an anti-CD20
+monoclonal antibody (rituximab or ofatumumab), is
+EMA-approved for treating adultpatients with
+chronic lymphocytic leukaemia (CLL) who have
+received at least one prior therapy or as first line
+treatment in the presence of 17p deletion or TP53
+mutation in patients who are not eligible for any
+other therapies; and as monotherapy for treating
+adult patients with follicular lymphoma that is
+refractory to two prior lines of treatment.",,,,,
+56,"idelalisib/
+rituximab","TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Idelalisib, a kinase inhibitor, in combination with
+rituximab, a CD20-directed cytolytic antibody, is FDA
+approved for treating patients with relapsed chronic
+lymphocytic leukemia (CLL) for whom rituximab
+alonewould be consideredappropriatetherapy due
+to other co-morbidities; idelalisib, in combination
+with rituximab, is EMA-approved for treating adult
+patients with chronic lymphocytic leukaemia (CLL)
+who have received at least one prior therapy,or as
+first line treatment in the presence of 17p deletion or
+TP53 mutation in patients who are not eligible for
+any other therapies.",,,,,
+57,lenalidomide,"TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Resistance,"Lenalidomide, a thalidomide analogue, is FDA- and
+EMA-approved for treating patients with relapsed or
+progressed mantle cell lymphoma previously treated
+with two therapies including bortezomib, multiple
+myeloma in combination with dexamethasone,
+multiple myeloma as maintenance following
+autologous hematopoietic stem cell transplantation,
+and transfusion-dependent anemia due to low- or
+intermediate-l-risk myelodysplastic syndromes
+associated with a deletion 5q cytogenetic
+abnormality with or without additional cytogenetic
+abnormalities; lenalidomide, as combination therapy,
+is also EMA-approved for treating adult patients with
+previously untreated multiple myelomawho arenot
+eligible for transplant.",,,,,
+59,Therapies,Gene/Variant,Response,"Therapies Description
+unsuitable for these treatments); in combination
+with paclitaxel for treating adult patients with HER2
+positive metastatic breast cancer who have not
+received chemotherapy for their metastatic disease
+and for whom an anthracycline is not suitable; in
+combination with docetaxel for treating adult
+patients with HER2 positive metastatic breast cancer
+who have not received chemotherapy for their
+metastatic disease; in combination with an
+aromatase inhibitor for treating postmenopausal
+patients with hormone-receptor positive HER2
+positive metastatic breast cancer,not previously
+treated with trastuzumab; for treating adult patients
+with HER2 positive early breast cancer following
+surgery, chemotherapy (neoadjuvant or adjuvant)
+and radiotherapy (if applicable); in combination with
+paclitaxel or docetaxel for treating adult patients
+with HER2 positive early breast cancer following
+adjuvant chemotherapy with doxorubicin and
+cyclophosphamide;in combination with adjuvant
+chemotherapy consisting of docetaxel and
+carboplatin for treating adult patients with HER2
+positive early breast cancer; in combination with
+trastuzumab therapy for HER2 positive early breast
+cancer that is locally advanced (including
+inflammatory) or with tumours >2 cm in diameter;
+and in combination with capecitabine or 5-
+fluorouracil and cisplatin for treating adult patients
+with HER2 positive metastatic adenocarcinoma of
+the stomach or gastroesophageal junction who have
+not received anti-cancer treatment for their
+metastatic disease.",,,,,
+60,"trastuzumab
+deruxtecan","ERBB2
+p.V116M
+g.39708441G>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Fam-trastuzumab deruxtecan-nxki, a HER2-directed
+antibody and topoisomerase inhibitor conjugate, is
+FDA-approved for treating adult patients with
+unresectable or metastatic HER2-positive breast
+cancer who have received a prior anti-HER2-based
+regimen either: in the metastatic setting, or in the
+neoadjuvant or adjuvant setting and have developed
+disease recurrence during or within six months of
+completing therapy; unresectable or metastatic
+HER2-low(IHC1+ orIHC2+/ISH-) breast cancer who
+have received a prior chemotherapy in the
+metastatic setting or developed disease recurrence
+during or within 6 months of completing adjuvant
+chemotherapy; unresectable or metastatic non-
+small cell lung cancer (NSCLC) whose tumors have
+activating HER2 (ERBB2) mutations,as detected by
+an FDA-approved test,and whohave received a prior
+systemic therapy;andlocally advanced or metastatic",,,,,
+62,Gene/Variant,Allelic Fraction,Function,Classification,Assessment,,,,
+63,"c.853G>A
+c.853G>A
+p.V285M
+g.170280374G>A",reads),,Tier 3,,,,,
+64,"RNF43
+c.925T>A
+p.C309S
+g.58360176A>T",11.0% (of 284 reads),loss,Tier 3,Uncertain Significance,,,,
+65,"SMC3
+c.2164G>A
+p.E722K
+g.110598186G>A","7.45% (of 470
+reads)",normal,Tier 3,Uncertain Significance,,,,
+66,"TENT5C
+c.354C>A
+p.N118K
+g.117623222C>A",45.0% (of 213 reads),normal,Tier 3,Uncertain Significance,,,,
+67,"ZFHX3
+c.2282G>T
+p.G761V
+g.72957864C>A
+Therapeutic Implications for Gastric Cancer",49.0% (of 211 reads),loss,Tier 3,Uncertain Significance,,,,
+68,Therapies,Gene/Variant,Response,Therapies Description,,,,,
+69,trifluridine,"POLE
+p.V1446fs*3
+g.132643513_132643
+514deICA
+Tier 2C
+Pathogenic",Sensitive,,,,,,
+70,trastuzumab,"p.V116M
+g.3970844lG>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Trastuzumab, a HER2/neu receptor antagonist, is
+FDA-approved for treating HER2-overexpressing
+breast cancer, and HER2-overexpressing metastatic
+gastric or gastroesophageal junction
+based on an FDA-approved companion diagnostic
+for trastuzumab); trastuzumab is EMA-approved for
+treating adult patients with HER2 positive metastatic
+breast cancer as monotherapy for those who have
+received at least two chemotherapy regimens for
+their metastatic disease (prior chemotherapy must
+have included at least an anthracycline and a taxane
+unless patients are unsuitable for these treatments;
+hormone receptor positive patients must also have
+failed hormonal therapy, unless patients are",adenocarcinoma (patients are selected for therapy,,,,
+72,"Therapies for
+Other Indications",Gene/Variant,Response,"Therapies Description
+de novo or secondary acute myeloid leukaemia
+(AML) who are not candidates for standard induction
+chemotherapy.",,,,,
+73,duvelisib,"TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Duvelisib, a kinase inhibitor, is FDA-approved for
+treating adult patients with relapsed or refractory
+chronic lymphocytic leukemia or small lymphocytic
+lymphoma after at least two prior therapies, and
+relapsed or refractory follicular lymphoma after at
+least two prior systemic therapies.",,,,,
+74,fludarabine,"TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Resistance,,,,,,
+75,"fludarabine
+phosphate","TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Fludarabine phosphate,a nucleotide metabolic
+inhibitor, is FDA-approved for treating patients with
+B-cell chronic lymphocytic leukemia (CLL) who have
+not responded to or whose disease has progressed
+during treatment with at least one standard
+alkylating-agent containing regimen.",,,,,
+76,ibrutinib,"TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Ibrutinib, a kinase inhibitor, is FDA-approved for
+treating adult patients with mantle cell lymphoma
+lymphocytic leukemia;small lymphocytic
+lymphoma;chronic lymphocytic leukemia with 17p
+deletion; small lymphocytic lymphoma with 17p
+deletion; Waldenstrom's macroglobulinemia;
+marginal zone lymphoma who require systemic
+therapy and have received at least one prior anti-
+CD20-based therapy;for treating adult and pediatric
+patients agelyear and older with chronic graft
+versus host disease(cGVHD) after failure ofone or
+more lines of systemic therapy; ibrutinib is EMA
+approved for treating adult patients with relapsed or
+refractory mantle cell lymphoma; previously
+untreated chronic lymphocytic leukaemia, as a
+single agent or in combination with rituximab or
+obinutuzumab or venetoclax;chronic lymphocytic
+leukaemia who have received at least one prior
+therapy, as a single agent or in combination with
+bendamustine and rituximab;Waldenstrom's
+macroglobulinaemia who have received at least one
+prior therapy, or in first line treatment for patients
+unsuitable for chemo-immunotherapy;and in
+combination with rituximab, for treating adult
+patientswithWaldenstrom's macroglobulinaemia",,,,,
+78,"Therapies for
+Other Indications",Gene/Variant,Response,Therapies Description,,,,,
+79,,"Tier 3
+Uncertain
+Significance
+ERBB3
+p.R1127H
+g.56101239G>A
+Tier 3
+Uncertain
+Significance",,"myelogenous leukemia in chronic, accelerated and
+blast phases with resistance or intolerance to prior
+therapy, and newly-diagnosed Philadelphia
+leukemia in chronic phase.
+Significance",,,,,
+80,dacomitinib,"ERBB2
+p.V116M
+g.3970844IG>A
+Tier 3
+Uncertain
+Significance
+ERBB3
+p.R1127H
+g.56101239G>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Dacomitinib, a kinase inhibitor, is FDA- and EMA-
+approved for the first-line treatment of patients with
+metastatic non-small cell lung cancer (NSCLC) with
+EGFR exon 19 deletion or exon 21 L858R substitution
+Significance
+Significance",,,,,
+81,erlotinib,"ERBB2
+p.Vl16M
+g.3970844lG>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Erlotinib, a kinase inhibitor, is FDA-approved for
+treating patients with metastatic non-small cell lung
+cancer(NsCLC)whose tumors have epidermal
+growth factor receptor (EGFR) exon 19 deletions or
+exon 21 (L858R) substitution mutations as detected
+by an FDA-approved test receiving first-line,
+maintenance, or second or greater line treatment
+after progression following at least one prior
+chemotherapy regimen; and for the first-line
+treatment of patients with locally advanced,
+unresectable or metastatic pancreatic cancer, in
+combination with gemcitabine;erlotinib is EMA-
+approved for treating patients with locally advanced
+or metastatic non-small cell lung cancer(NsCLC)
+with EGFR activating mutations for the first-line
+treatment;locally advanced or metastatic NSCLC
+with EGFR activating mutations and stable disease
+for switch maintenance treatment after first-line
+chemotherapy; locally advanced or metastatic
+NSCLC after failure of at least one prior
+without EGFR activating mutations, erlotinib is
+indicated when other treatment options are not
+considered suitable); and metastatic pancreatic
+cancer,in combination with gemcitabine.",,,,,
+83,"Therapies for
+Other Indications",Gene/Variant,Response,"Therapies Description
+with no satisfactory locoregional treatment options;
+and for treating adult and pediatric patients 6years
+of age and older with unresectable or metastatic
+solid tumors with BRAF V600E mutation who have
+progressed following prior treatment and have no
+satisfactory alternative treatment options.",,,,,
+84,vinorelbine,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Resistance,"Vinorelbine, a vinca alkaloid, is FDA-approved in
+combination with cisplatin for the first-line
+treatment of patients with locally advanced or
+metastatic non-small cell lung cancer and as a single
+agent for the first-line treatment of patients with
+metastatic non-small cell lung cancer.",,,,,
+85,cladribine,"POLE
+p.V1446fs*3
+g.132643513_132643
+514deICA
+Tier 2C
+Pathogenic",Sensitive,"Cladribine, a purine analog, is EMA-approved for
+treating patients with Hairy Cell Leukemia.",,,,,
+86,clofarabine,"POLE
+p.V1446fs*3
+g.132643513_132643
+514delCA
+Tier 2C
+Pathogenic",Sensitive,"Clofarabine, a purine nucleoside metabolic inhibitor,
+is FDA-and EMA-approved for treating pediatric
+patients1 to21years old with relapsedor refractory
+acute lymphoblastic leukemia after at least two prior
+regimens.",,,,,
+87,cytarabine,"p.V1446fs*3
+g.132643513_132643
+514delCA
+Tier 2C
+Pathogenic",,"Cytarabine,a nucleoside metabolic inhibitor,and
+daunorubicin, an anthracycline topoisomerase
+inhibitor, are FDA- and EMA-approved for treating
+adults with newly-diagnosed therapy-related acute
+myeloid leukemia (t-AML) or AML with
+myelodysplasia-related changes (AML-MRC).",,,,,
+88,daunorubicin,"p.Vl446fs*3
+g.132643513_132643
+514de|CA
+Tier 2C
+Pathogenic",Sensitive,"Daunorubicin, a TOP2 and POR inhibitor, is FDA-
+approved for treating patients with acute monocytic
+leukemia and acute erythroid leukemia.",,,,,
+89,acalabrutinib,"TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Acalabrutinib, a kinase inhibitor, is FDA-approved for
+treating adultpatientswith mantle cell lymphoma
+(MCL) who have received at least one prior therapy;
+and chronic lymphocytic leukemia (CLL) or small
+lymphocytic lymphoma (SLL).",,,,,
+90,"acalabrutinib/
+obinutuzumab","TP53
+p.R248Q
+g.7674220C>T",Sensitive,,,,,,
+92,"Therapies for
+Other Indications",Gene/Variant,Response,Therapies Description,,,,,
+93,,,,"in their second or subsequent relapse after
+chemotherapy; CD20 positive diffuse large B cell non-
+Hodgkin's lymphoma in combination with CHOP
+(cyclophosphamide,doxorubicin,vincristine,
+prednisolone) chemotherapy; and for treating
+patients with previously untreated and relapsed
+/refractory chronic lymphocytic leukaemia (CLL) in
+combination with chemotherapy.",,,,,
+94,rituximab,"TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Resistance,"Rituximab, a CD20-directed cytolytic antibody, is
+FDA-and EMA-approved for treating pediatric
+patients aged 6months and older with previously
+untreated,advanced stage,CD20-positive diffuse
+large B-cell lymphoma (DLBCL), Burkitt lymphoma
+(BL), Burkitt-like lymphoma (BLL) or mature B-cell
+acute leukemia(B-AL)in combination with
+chemotherapy;rituximab is FDA-approved for
+treating adult patients with relapsed or refractory,
+low grade or follicular,CD2o-positive B cell Non
+Hodgkin's Lymphoma (NHL) as a single agent;
+NHL in combination with first line chemotherapy
+and,in patients achieving a complete or partial
+response to rituximab in combination with
+chemotherapy, as single-agent maintenance
+therapy; non-progressing (including stable disease),
+Iow-grade, CD20-positive, B-cell NHL as a single
+agent after first-line cyclophosphamide, vincristine,
+and prednisone (CVP) chemotherapy; previously
+untreated diffuse large B-cell,CD20-positive NHL in
+combination with cyclophosphamide, doxorubicin,
+vincristine,and prednisone(CHOP)or other
+anthracycline-based chemotherapy regimens; and
+previously untreated and previously treated CD20-
+positive chronic lymphocytic leukemia (CLL), in
+combination with fludarabine and
+treating adult patients with previously untreated
+stage III-IV follicular lymphoma in combination with
+therapy) responding to induction therapy; stage II-IV
+follicular lymphoma who are chemo-resistant or are
+in their second or subsequent relapse after
+chemotherapy;CD20 positive diffuse large B cell non
+Hodgkin's lymphoma in combination with CHOP
+cyclophosphamide,doxorubicin,vincristine,
+prednisolone) chemotherapy;and for treating
+patients with previously untreated and relapsed
+/refractory chronic lymphocytic leukaemia (CLL) in
+combination with chemotherapy.",,,,,
+96,"Therapies for
+Other Indications","Gene/Variant
+ERBB2
+p.V116M
+g.3970844IG>A
+Tier 3
+Uncertain
+Significance",Response,Therapies Description,,,,,
+97,"cisplatin/
+paclitaxel","KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic
+ERBB2
+g.3970844lG>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Cisplatin is a cytotoxic heavy metal
+chemotherapeutic agent. Paclitaxel is a natural
+product which disrupts the normal interphase and
+mitotic cellular functions of the microtubule
+network.Paclitaxel is indicated in combination with
+cisplatin as first-line therapy for the treatment of
+Significance",,,,,
+98,"cisplatin/
+pemetrexed","KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic
+ERBB2
+p.V116M
+g.39708441G>A
+Tier 3
+Uncertain
+Significance",Sensitive,,,,,,
+99,cobimetinib,"p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",,"Cobimetinib,a kinase inhibitor,in combination with
+vemurafenib, is FDA- and EMA-approved for treating
+patients with unresectable or metastatic melanoma
+with a BRAF V600E or V600K mutation.",,,,,
+100,crizotinib,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Resistance,"Crizotinib.a kinase inhibitor is FDA-and EMA-
+approved for treating patients with metastatic non-
+small cell lung cancer (NSCLC) whose tumors are
+anaplastic lymphoma kinase (ALK) or ROSI-positive
+as detected by an FDA-approved test; crizotinib is
+FDA-approved for treating pediatric patientsTyear of
+age and older and young adults with relapsed or
+refractory,systemic anaplastic large cell lymphoma
+(ALCL) that is ALK-positive; and for treating adult and
+pediatric patientslyear of age and older with
+unresectable, recurrent,or refractory inflammatory
+myofibroblastic tumor (IMT) that is ALK-positive.",,,,,
+102,"Therapies for
+Other Indications",Gene/Variant,Response,Therapies Description,,,,,
+103,docetaxel,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic
+ERBB2
+g.3970844IG>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Docetaxel,a microtubule inhibitoris FDA-and EMA
+or metastatic Non-Small Cell Lung Cancer (NSCLC)
+as a single agent after platinum therapy failure,and
+with cisplatin for unresectable,locally advanced or
+prednisone for treating metastatic castration-
+advanced gastric adenocarcinoma, including
+adenocarcinoma of the gastroesophageal junction;
+and in combination with cisplatin and fluorouracil for
+the induction treatment of locally advanced
+squamous cell carcinoma of the head and neck
+(SCCHN); docetaxel is FDA-approved for treating
+patients with locally advanced or metastatic breast
+cancer after chemotherapy failure as a single agent,
+and with doxorubicin and cyclophosphamide as
+adjuvant treatment of operable node-positive breast
+cancer; docetaxel is EMA-approved for the adjuvant
+treatment of patients with operable node-positive
+breast cancer and operable node-negative breast
+cancer in combination with doxorubicin and
+cyclophosphamide (for patients with operable node-
+negative breast cancer, adjuvant treatment should
+be restricted to patients eligible to receive
+chemotherapy according to internationally
+established criteria for primary therapy of early
+breast cancer);in combination with doxorubicin for
+treating patients with locally advanced or metastatic
+breast cancer who have not previously received
+cytotoxic therapy for this condition; locally advanced
+or metastatic breast cancer as monotherapy after
+failure of cytotoxic therapy (previous chemotherapy
+should have included an anthracycline or an
+alkylating agent); in combination with trastuzumab
+for treating patients with metastatic breast cancer
+whose tumours overexpress HER2 and who
+previously have not received chemotherapy for
+metastatic disease; in combination with
+capecitabine for treating patients with locally
+advanced or metastatic breast cancer after failure of
+cytotoxic chemotherapy(previous therapy should
+have included an anthracycline); and in combination
+with androgen-deprivation therapy (ADT), with or
+without prednisone or prednisolone, for treating
+patients with metastatic hormone-sensitive prostate
+cancer.",,,,,
+104,erlotinib,"KRAS
+p.G12A",Resistance,"Erlotinib, a kinase inhibitor, is FDA-approved for
+treating patients with metastatic non-small cell lung",,,,,
+106,"Therapies for
+Other Indications",Gene/Variant,Response,Therapies Description,,,,,
+107,"rituximab/
+venetoclax","TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Venetoclax,a BCL-2 inhibitor,in combination with
+rituximab, a CD20-directed cytolytic antibody, is
+EMA-approved for treating adult patients with
+chroniclymphocyticleukaemia(CLL)who have
+received at least one prior therapy.",,,,,
+108,venetoclax,"TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Venetoclax, a BCL-2 inhibitor, is FDA-approved for
+treating adult patients with chronic lymphocytic
+leukemia (CLL) or small lymphocytic lymphoma
+(SLL); and, in combination with azacitidine or
+decitabine or low-dose cytarabine, for the treatment
+of newly-diagnosed acute myeloid leukemia (AML) in
+adults who are age 75years or older,or who have
+comorbidities that preclude use of intensive
+induction chemotherapy; venetoclax, in combination
+with obinutuzumab, is EMA-approved for treating
+adult patients with previously untreated CLL; in
+combination with rituximab, for treating adult
+patients with CLLwho have received at least one
+prior therapy; and as monotherapy for treating adult
+patients with CLL in the presence of 17p deletion or
+TP53 mutation who are unsuitable for or have failed
+a B-cell receptor pathway inhibitor, or in the absence
+of 17p deletion or TP53 mutation, for patients who
+have failed both chemoimmunotherapy and a B-cell
+receptor pathway inhibitor.",,,,,
+109,zanubrutinib,"TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Zanubrutinib, a kinase inhibitor, is FDA-approved for
+treating adult patients with mantle cell lymphoma
+(MCL) who have received at least one prior therapy;
+and Waldenstrom's macroglobulinemia (WM).",,,,,
+110,afatinib,"ERBB2
+p.V116M
+g.3970844lG>A
+Tier 3
+Uncertain
+Significance
+ERBB3
+p.R1127H
+g.56101239G>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Afatinib, a kinase inhibitor, is FDA-approved for
+treating patients with metastatic non-small cell lung
+cancer (NSCLC) whose tumors have non-resistant
+epidermal growth factor receptor (EGFR) mutations
+as detected by an FDA-approved test, as first-line
+treatment; metastatic, squamous NSCLC
+afatinib is EMA-approved for treating adult patients
+with locally advanced or metastatic non-small cell
+lung cancer(NSCLC) with activating EGFR mutation
+(s) who are EGFR TKI-naive; and locally advanced or
+metastatic NSCLC of squamous histology
+progressing on or after platinum based
+chemotherapy.",,,,,
+111,bosutinib,"ERBB2
+p.V116M
+g.39708441G>A",Sensitive,"Bosutinib, a kinase inhibitor, is FDA- and EMA-
+approved for treating adult patients with
+Philadelphia chromosome-positive chronic",,,,,
+113,"Therapies for
+Other Indications",Gene/Variant,Response,Therapies Description,,,,,
+114,,"Tier 2C
+Pathogenic",,,,,,,
+115,alemtuzumab,"TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Alemtuzumab,a CD52-directed cytolytic monoclonal
+antibody,is FDA-approved for treating patients with
+B-cell chronic lymphocytic leukemia.",,,,,
+116,"alemtuzumab/
+rituximab","TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Alemtuzumab,a CD52-directed cytolytic monoclonal
+antibody,in combination with rituximab,a CD20-
+directed cytolytic antibody, is NCCN-recommended
+as a first-line treatment option for chronic
+lymphocytic leukemia with del(17p) or TP53
+mutation,when treatment with a BTK inhibitor or
+venetoclax is not deemed appropriate. The
+combination of alemtuzumab and rituximab is also
+NCCN-recommended as a relapsed/refractory
+therapy option for chronic lymphocytic leukemia
+with or without del(17p)/TP53 mutation.",,,,,
+117,"bortezomib/
+rituximab","TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Bortezomib, a proteasome inhibitor, in combination
+with rituximab, a CD20-directed cytolytic antibody,
+and cyclophosphamide, an alkylating drug, and
+doxorubicin, an anthracycline topoisomerase
+inhibitor, and prednisone, a corticosteroid, is EMA-
+approved for treating adultpatientswith previously
+untreated mantle cell lymphoma,who are
+unsuitable for haematopoietic stem cell
+transplantation.",,,,,
+118,chlorambucil,"p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Resistance,,,,,,
+119,decitabine,"TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Decitabine, a nucleoside metabolic inhibitor, is FDA
+approved for treating patients with myelodysplastic
+syndromes (MDS) including previously treated and
+untreated, de novo and secondary MDS of all French
+American-British subtypes (refractory anemia,
+refractory anemia with ringed sideroblasts, refractory
+anemia with excess blasts, refractory anemia with
+excess blasts in transformation, and chronic
+myelomonocytic leukemia) and intermediate-l,
+intermediate -2, and high-risk International
+Prognostic Scoring System groups; and EMA-
+approved for treating patients with newly diagnosed",,,,,
+121,"Therapies for
+Other Indications
+lenalidomide","Gene/Variant
+TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic","Response
+Sensitive","Therapies Description
+Lenalidomide,a thalidomide analogue,is FDA-and
+EMA-approved for treating patients with relapsed or
+progressed mantle cell lymphoma previously treated
+with two therapies including bortezomib,multiple
+myeloma in combination with dexamethasone
+multiple myeloma as maintenance following
+autologous hematopoietic stem cell transplantation,
+and transfusion-dependent anemia due to low- or
+ intermediate-l-risk myelodysplastic syndromes
+associated with a deletion 5q cytogenetic
+abnormality with or without additional cytogenetic
+abnormalities; lenalidomide, as combination therapy,
+is also EMA-approved for treating adult patients with
+previously untreated multiple myeloma who are not
+eligible for transplant.",,,,,
+122,"lenalidomide/
+rituximab","p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Lenalidomide, a thalidomide analogue, in
+combination with rituximab, a CD20-directed
+cytolytic antibody, is FDA-and EMA-approved for
+treating patients with previously treated follicular
+Ilymphoma (FL); lenalidomide, in combination with
+rituximab, is FDA-approved for treating patients with
+previously treated marginal zone lymphoma (MZL).",,,,,
+123,obinutuzumab,"TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Obinutuzumab,a CD20-directed cytolytic antibody,
+in combination with chlorambucil, is FDA- and EMA-
+approved for treating patients with previously
+untreated chronic lymphocytic leukemia;
+obinutuzumab, in combination with bendamustine
+followed by obinutuzumab monotherapy, is FDA-
+approved for treating patients with follicular
+lymphoma (FL) who relapsed after,or are refractory
+to, a rituximab-containing regimen; and in
+combination with chemotherapy followed by
+obinutuzumab monotherapy in patients achieving at
+least a partial remission, for treating adult patients
+with previously untreatedstagellbulky,IllorIV
+follicular lymphoma; obinutuzumab, in combination
+with chemotherapy followed by obinutuzumab
+maintenance therapy in patients achieving a
+response, is EMA-approved for treating patients with
+previously untreated advanced follicular lymphoma;
+and in combination with bendamustine followed by
+obinutuzumab maintenance, in patients with
+follicular lymphoma who did not respond or who
+progressed during or up to 6 months after treatment
+with rituximab or a rituximab-containing regimen.",,,,,
+124,"obinutuzumab/
+venetoclax","TP53
+p.R248Q
+g.7674220C>T",Sensitive,"Venetoclax, a BCL-2 inhibitor, in combination with
+obinutuzumab, a CD20-directed cytolytic antibody, is
+EMA-approved for the treatment of adult patients",,,,,
+126,"Therapies for
+Other Indications",Gene/Variant,Response,"Therapies Description
+tumor area),as determined by an FDA-approved
+test; for the first-line treatment of adult patients with
+metastatic non-small cell lung cancer (NSCLC)
+stained50%oftumor cells[TC50%]or PD-L]
+stained tumor-infiltrating immune cells [IC] covering
+10% of the tumor area [IC  10%]), as determined by
+an FDA-approved test, with no EGFR or ALK
+genomic tumor aberrations; in combination with
+paclitaxelprotein-boundand carboplatin for thefirst
+line treatment of adult patients with metastatic non-
+squamous NSCLC with no EGFR or ALK genomic
+tumor aberrations; as a single-agent for treating
+adult patientswith metastatic NSCLCwho have
+disease progression during or following platinum-
+containing chemotherapy (patients with EGFR or
+ALK genomic tumor aberrations should have disease
+progression on FDA-approved therapy for these
+aberrations prior to receiving atezolizumab); in
+combination with carboplatin and etoposide, for the
+first-line treatment of adult patients with extensive-
+stage small cell lung cancer (ES-SCLC); and, in
+combination with bevacizumab, for treating patients
+with unresectable or metastatic hepatocellular
+carcinoma(HcC)who have not received prior
+systemic therapy; atezolizumab is FDA-approved for
+treating adult patients with locally advanced or
+metastatic urothelial carcinoma who are not eligible
+for any platinum-containing chemotherapy
+regardless of PD-LI status;stage lI to IIIA NSCLC
+whose tumors have PD-Ll expression on  1% of
+tumor cells, as determined by an FDA-approved test,
+as adjuvant treatment following resection and
+platinum-based chemotherapy; in combination with
+bevacizumab, paclitaxel, and carboplatin, for the first-
+line treatment of adult patients with metastatic non-
+squamous NSCLC with no EGFR or ALK genomic
+tumor aberrations; and, in combination with
+cobimetinib and vemurafenib, for treating patients
+with BRAF V600 mutation-positive unresectable or
+metastatic melanoma; atezolizumab is EMA-
+approved for treating adult patients with locally
+advanced or metastatic urothelial carcinoma after
+prior platinum-containing chemotherapy; in
+combination with bevacizumab, paclitaxel and
+carboplatin,for the first-line treatment of adult
+patients with metastatic non-squamous non-small
+cell lung cancer (NSCLC) (in patients with EGFR
+mutant or ALK-positive NSCLC,atezolizumab, in
+combination with bevacizumab,paclitaxel and
+carboplatin, is indicated only after failure of",,,,,
+128,"Gene/Variant
+g.29943494_29943
+495delGTinsCG
+HLA-A",,"Allelic Fraction
+51.0% (of 45 reads)","Function
+gain","Classification
+Tier 3","Assessment
+Uncertain Significance",,,
+129,"c.899_900delTGins
+CA
+p.L300P
+g.29944503_29944
+504delTGinsCA",,,,,,,,
+130,"HLA-B
+C.
+419_420delACinsTA
+p.Y140L
+g.31356366_3135636
+7de|GTinsTA",,48.0% (of 23 reads),loss,Tier 3,Uncertain Significance,,,
+131,"HLA-B
+C
+362_363delGCinsCG
+p.S721T
+g.31356423_3135642
+4delCCinsCG",,86.0% (of 36 reads),normal,Tier 3,Uncertain Significance,,,
+132,"HLA-B
+c.354_357delCCTCi
+nsTTGG
+p.L119W
+g.31356429_3135643
+2delCAGGinsCCAA",,81.0% (of 43 reads),loss,Tier 3,Uncertain Significance,,,
+133,"HLA-B
+313_314de|CTinsGC
+p.L105A
+g.31356717_31356718
+delAGinsGC",,98.0% (of 134 reads),loss,Tier 3,Uncertain Significance,,,
+134,"HLA-B
+c.282_283delGGins
+CA
+p.Q94_A95delinsHT
+g.31356748_3135674
+9delCCinsTG",,"100.0% (of 44
+reads)",loss,Tier 3,Uncertain Significance,,,
+135,"HLA-B
+c.204_206delAGAin
+sGAC
+p.E69T
+g.31356825_3135682
+7delTCTinsGTC",,70.0% (of 10 reads),loss,Tier 3,Uncertain Significance,,,
+137,"Gene/Variant
+HLA-C
+c.984_985delCAins
+GG
+p.T329A
+g.31269996_3126999
+7delTGinsCC","Allelic Fraction
+100.0%(of 181
+reads)","Function
+gain",Classification,"Assessment
+Uncertain Significance",,,,
+138,"HLA-C
+c.872_873delAAins
+CG
+p.Q291P
+g.31270232_3127023
+3delTTinsCG",97.0% (of 35 reads),gain,Tier 3,Uncertain Significance,,,,
+139,"HLA-C
+C.
+559_560delACinsCT
+p.T187L
+g.31271132_31271133d
+elGTinsAG","32.0% (of 236
+reads)",loss,Tier 3,Uncertain Significance,,,,
+140,"JAK3
+c.2660G>A
+p.R887H
+g.17832539C>T","58.0% (of 262
+reads)",loss,Tier 3,Uncertain Significance,,,,
+141,"KMT2C
+c.2459C>T
+p.T820I
+g.152247975G>A",13.0% (of 528 reads),loss,Tier 3,Uncertain Significance,,,,
+142,"KMT2C
+c.2291C>T
+p.S764F
+g.l52248143G>A",7.33% (of 232 reads),normal,Tier 3,Uncertain Significance,,,,
+143,"KMT2D
+c.1688C>A
+p.T563N
+g.49051995G>T",47.0% (of 157 reads),normal,Tier 3,Uncertain Significance,,,,
+144,"NOTCH3
+c.4793A>T
+p.D1598V
+g.15170769T>A","53.0% (of 590
+reads)",normal,,Uncertain Significance,,,,
+145,"c.1873G>A
+p.A625T
+g.226377176C>T",reads),,,,,,,
+147,"Therapies for
+Other Indications",Gene/Variant,Response,"Therapies Description
+appropriate targeted therapies); and, in combination
+with nab-paclitaxel, for treating adult patients with
+unresectable locally advanced or metastatic triple
+negative breast cancer (TNBC) whose tumours have
+PD-Llexpression1%andwhohavenot received
+prior chemotherapy for metastatic disease.",,,,,
+148,bevacizumab,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Sensitive,"Bevacizumab,a VECF-specific angiogenesis
+inhibitor, is FDA- and EMA-approved for treating
+patients with metastatic colorectal cancer, in
+combination with intravenous fluorouracil-based
+chemotherapy for first-or second-line treatment;
+metastatic colorectal cancer, in combination with
+fluoropyrimidine-irinotecan- or fluoropyrimidine.
+oxaliplatin-based chemotherapy for second-line
+treatment in patients who have progressed on a first-
+line bevacizumab-containing regimen; unresectable,
+locally advanced,recurrent or metastatic non-
+squamous non-small cell lung cancer, in
+combination with carboplatin and paclitaxel for first
+line treatment; metastatic renal cell carcinoma, in
+combination with interferon alfa; persistent,
+recurrent, or metastatic cervical cancer, in
+combination with paclitaxel and cisplatin, or
+paclitaxel and topotecan; stage II or IV epithelial
+ovarian, fallopian tube,or primary peritoneal cancer
+following initial surgical resection, in combination
+with carboplatin and paclitaxel,followed by
+bevacizumab as a single agent; patients with
+platinum-resistant recurrent epithelial ovarian,
+fallopian tube or primary peritoneal cancer who
+received no more than 2 prior chemotherapy
+regimens, in combination with paclitaxel, pegylated
+liposomal doxorubicin, or topotecan; patients with
+platinum-sensitive recurrent epithelial ovarian,
+fallopian tube,or primary peritoneal cancer, in
+combination with carboplatin and paclitaxel, or with
+carboplatin and gemcitabine, followed by
+bevacizumab as a single agent; bevacizumab is FDA.
+approved for treating adult patients with recurrent
+for treating patients with unresectable or metastatic
+hepatocellular carcinoma(HCC)who have not
+received prior systemic therapy; bevacizumab is
+EMA-approved for treating adult patients with
+metastatic breast cancer, in combination with
+paclitaxel for first-line treatment; metastatic breast
+cancer, in combination with capecitabine for first-
+line treatment of adult patients in whom treatment
+with other chemotherapy options including taxanes
+or anthracyclines is not considered appropriate",,,,,
+150,"Therapies for
+Other Indications",Gene/Variant,Response,Therapies Description,,,,,
+151,,"Tier 2C
+Pathogenic",,"with previously untreated chronic lymphocytic
+leukaemia (CLL).",,,,,
+152,ofatumumab,"TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Ofatumumab,a CD20-directed cytolytic monoclonal
+antibody, is FDA-and EMA-approved for treating
+patients with previously untreated chronic
+lymphocytic leukemia in combination with
+chlorambucil for whom fludarabine-based therapy is
+considered inappropriate,patients with relapsed
+chroniclymphocytic leukemia in combination with
+fludarabine and cyclophosphamide,chronic
+lymphocytic leukemia refractory to fludarabine and
+alemtuzumab, and ofatumumab is also FDA-
+approved as extended treatment in patients who are
+in complete or partial response after at least two
+lymphocytic leukemia.",,,,,
+153,rituximab,"TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",Sensitive,"Rituximab, a CD20-directed cytolytic antibody, is
+FDA- and EMA-approved for treating pediatric
+patients aged 6 months and older with previously
+untreated, advanced stage,CD20-positive diffuse
+Iarge B-cell lymphoma (DLBCL), Burkitt lymphoma
+(BL), Burkitt-like lymphoma (BLL) or mature B-cell
+acute leukemia (B-AL) in combination with
+chemotherapy; rituximab is FDA-approved for
+treating adult patients with relapsed or refractory,
+low grade or follicular,CD2O-positive B cell Non-
+Hodgkin's Lymphoma (NHL) as a single agent;
+previously untreated follicular, CD20-positive, B-cell
+NHL in combination with first line chemotherapy
+and, in patients achieving a complete or partial
+response to rituximab in combination with
+chemotherapy, as single-agent maintenance
+therapy; non-progressing (including stable disease),
+Iow-grade, CD20-positive, B-cell NHL as a single
+agent after first-line cyclophosphamide,vincristine
+and prednisone (CVP) chemotherapy; previously
+untreated diffuse large B-cell, CD20-positive NHL in
+combination with cyclophosphamide, doxorubicin,
+vincristine,and prednisone(CHOP or other
+anthracycline-based chemotherapy regimens; and
+previously untreated and previously treated CD20-
+positive chronic lymphocytic leukemia (CLL), in
+combination with fludarabine and
+cyclophosphamiderituximab is EMA-approved for
+treating adult patients with previously untreated
+stage Ill-IV follicular lymphoma in combination with
+chemotherapy; follicular lymphoma (maintenance
+therapy) responding to induction therapy; stage II-IV
+ follicular lymphoma who are chemo-resistant or are",,,,,
+155,"Therapies for
+Other Indications",Gene/Variant,Response,Therapies Description,,,,,
+156,,,,"cancer in combination with FOLFIRI for first-line
+treatment, or in combination with irinotecan in
+patients who are refractory to irinotecan-based
+chemotherapy,or as a single agent in patients who
+have failed oxaliplatin- and irinotecan-based
+cetuximab is EMA-approved for treating patients
+with EGFR-expressing,RAS wild-type metastatic
+colorectal cancer in combination with irinotecan-
+based chemotherapy, in first-line in combination
+with FOLFOX, as a single agent in patients who have
+failed oxaliplatin- and irinotecan-based therapy and
+who are intolerant to irinotecan; squamous cell
+cancer of the head and neck in combination with
+combination with platinum-based chemotherapy for
+recurrent and/or metastatic disease.",,,,,
+157,cisplatin,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Resistance,"Cisplatin,a cytotoxic heavy metal chemotherapeutic
+agent, is FDA-approved for treating patients with a
+metastatic testicular tumor in established
+combination therapy with other approved
+chemotherapeutic agents who have already
+received appropriate surgical and/or
+radiotherapeutic procedures,metastatic ovarian
+tumor in established combination therapy with
+other approved chemotherapeutic agents who have
+already received appropriate surgical and/or
+radiotherapeutic procedures,and transitional cell
+treatments as a single agent",,,,,
+158,"cisplatin/
+docetaxel","KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic
+ERBB2
+p.V116M
+g.3970844lG>A
+Tier 3
+Uncertain
+Significance",Sensitive,,,,,,
+159,"cisplatin/
+gemcitabine","KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Sensitive,"Gemcitabine is approved for use in combination with
+cisplatin for the first-line treatment of patients with
+inoperable, locally advanced, or metastatic non-small
+cell lung cancer.",,,,,
+161,Gene/Variant,,Allelic Fraction,Function,Classification,Assessment,,,
+162,"p.N31K
 g.47373479C>G",,,,,,,,
-3,"ERBB2
+163,"ERBB2
 c.346G>A
 p.VI16M
 g.39708441G>A",,"47.0% (of 459
 reads)",loss,Tier 3,Uncertain Significance,,,
-4,"ERBB3
+164,"ERBB3
 c.3380G>A
 p.R1127H
 g.56101239G>A",,"48.0% (of 629
 reads)",normal,Tier 3,Uncertain Significance,,,
-5,"ERCC5
+165,"ERCC5
 c.2108A>G
 p.D703G
 g.102865820A>G",,"48.0% (of 238
 reads)",normal,Tier 3,Uncertain Significance,,,
-6,"FAT1
+166,"FAT1
 c.3337G>A
 p.D1ll3N
 g.186663542C>T",,38.0% (of 219 reads),loss,Tier 3,Uncertain Significance,,,
-7,"FGFR4
+167,"FGFR4
 c.1871A>C
 p.N624T
 g.177096106A>C",,"48.0% (of 145
 reads)",normal,Tier 3,Uncertain Significance,,,
-8,"FUBP1
+168,"FUBP1
 c.733C>G
 p.Q245E
 g.77964872G>C",,52.0% (of 221 reads),loss,Tier 3,Uncertain Significance,,,
-9,"HLA-A
+169,"HLA-A
 c
 538_539delTTinsCA
 p.L180Q
 g.29943462_299434
 63delTTinsCA",,100.0% (of 63 reads),,Tier 3,Uncertain Significance,,,
-10,"HLA-A
+170,"HLA-A
 C.
 559_560delACinsCG
 p.T187R
 g.29943483_299434
 84delACinsCG",,54.0% (of 119 reads),normal,Tier 3,Uncertain Significance,,,
-11,"HLA-A
+171,"HLA-A
 C.
 570_571delGTinsCG
 p.
 E190_W191delinsDG",,45.0% (of 152 reads),loss,Tier 3,Uncertain Significance,,,
-12,YOURLAB,"Accession ID:NGSO-221209001
-Patient Name: LAN ZHENG,MEI-CHAN
-Diagnosis: gastric cancer",,Approved Therapies,,Page 5 of 76,,,
-13,Gene/Variant,Allelic Fraction,Gastric Cancer,Other Indications,"Associated With
+173,Gene/Variant,Allelic Fraction,Gastric Cancer,Other Indications,"Associated With
 Resistance","Clinical
 Trials",,,
-14,,,,"pertuzumab
+174,,,,"pertuzumab
 trastuzumab
 emtansine
 tucatinib",,,,,
-15,"ERBB3
+175,"ERBB3
 p.R1127H
 g.56101239G>A
 Tier 3
@@ -70,7 +1735,7 @@ dacomitinib
 neratinib
 osimertinib
 osimertinib",,,,,
-16,"FGFR4
+176,"FGFR4
 c.1871A>C
 p.N624T
 g.177096106A>C
@@ -82,7 +1747,7 @@ infigratinib
 lenvatinib
 ponatinib
 regorafenib",,,,,
-17,"JAK3
+177,"JAK3
 c.2660G>A
 p.R887H
 g.17832539C>T
@@ -90,71 +1755,150 @@ Tier 3
 Uncertain
 Significance","58.0% (of262
 reads)",,ruxolitinib,,,,,
-18,Variants of Unknown Clinical Significance,,,,,,,,
-19,Gene/Variant,Allelic Fraction,Function,Classification,Assessment,,,,
-20,"AMERT
+178,Variants of Unknown Clinical Significance,,,,,,,,
+179,Gene/Variant,Allelic Fraction,Function,Classification,Assessment,,,,
+180,"AMERT
 c.1646G>A
 p.R549Q
 g.64191641C>T",6.43% (of 311 reads),normal,Tier 3,Uncertain Significance,,,,
-21,"CRLF2
+181,"CRLF2
 c.29C>T
 p.P1OL
 g.1202520G>A","43.0% (of 326
 reads)",loss,Tier 3,Uncertain Significance,,,,
-22,"EPCAM
+182,"EPCAM
 c.93C>G",36.0% (of 163 reads),normal,Tier 3,Uncertain Significance,,,,
-23,"YOURLAB
-Test Performed: Somatic Panel
-
-
-Patient Name LAN ZHENG,MEI-
-
-Date of Birth Nov 25,1935
-
-
-
-
-Result:
-6
-Clinically Significant
-Variants
-Biomarker Findings","1700 Lincoln Blvd, Suite 20, Redwood City, CA 94063
-labxyz.com/(650)4844040
-
-
-Patient
-CHAN
-Age 87
-Sex Female
-Ethnicity East Asian
-Diagnosis gastric cancer
-Positive","14
-Therapies Associated with
-Resistance","Client AN,HE
-Client ID 037658
-Physician JANG,REN-CHIN
-Pathologist","Client
-76
-Therapies with Potential
-Clinical Benefit",,"Report Date Dec 19,2022
-
-Accession ID NGSO-221209001
-Specimen
-Collection Dec 9,2022
-Accession Dec 20,2022
-Primary Tumor Site Stomach
-Clinical Trials","Status-
-Specimen",
-24,,,"Approved Therapies in Gastric
+184,"Therapies for
+Other Indications",Gene/Variant,Response,Therapies Description,,,,,
+185,,,,"(patients who have received taxane and
+anthracycline containing regimens in the adjuvant
+setting within the last 12 months should be excluded
+from treatment with bevacizumab in combination
+with capecitabine); unresectable advanced,
+metastatic or recurrent non-squamous non-small
+cell lung cancer with EGFR activating mutations, in
+combination with erlotinib for first-line treatment.",,,,,
+186,binimetinib,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Sensitive,"Binimetinib, a kinase inhibitor, in combination with
+encorafenib,is FDA-and EMA-approved for treating
+patients with unresectable or metastatic melanoma
+with a BRAF V600E or V600K mutation,as detected
+by an FDA-approved test.",,,,,
+187,"carboplatin/
+gemcitabine","KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic
+ERBB2
+p.V116M
+g.39708441G>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Gemcitabine in combination with carboplatin is
+approved for the treatment of patientswith
+advanced ovarian cancer that has relapsed at least
+six months after completion of platinum-based
+therapy.",,,,,
+188,"carboplatin/
+paclitaxel","KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic
+ERBB2
+p.V116M
+g.3970844IG>A
+Tier 3
+Uncertain
+Significance",Sensitive,"Carboplatin and paclitaxel are chemotherapeutic
+drugs used in combination to treat endometrial,
+cell lung cancer that has spread.",,,,,
+189,cetuximab,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Resistance,"Cetuximab, an epidermal growth factor receptor
+antagonist, is FDA-approved for treating patients
+with locally or regionally advanced squamous cell
+carcinoma of the head and neck in combination with
+radiation therapy; recurrent locoregional disease or
+metastatic squamous cell carcinoma of the head
+and neck in combination with platinum-based
+therapy with 5-FU; recurrent or metastatic
+squamous cell carcinoma of the head and neck
+progressing after platinum-based therapy; KRAs
+wild-type, ECFR-expressing, metastatic colorectal",,,,,
+191,"Therapies for
+Other Indications",Gene/Variant,Response,Therapies Description,,,,,
+192,,"Tier 2C
+Pathogenic",,,,,,,
+193,capecitabine,"Tier 2C
+Uncertain
+Significance",,"Capecitabine,a nucleoside metabolic inhibitor,is
+FDA-and EMA-approved for the adjuvant treatment
+of patients with Dukes' grade C colon cancer; for
+treating patients with metastatic colorectal cancer
+as first-line monotherapy when treatment with
+fluoropyrimidine therapy alone is preferred; as
+monotherapy for metastatic breast cancer resistant
+to both an anthracycline-containing regimen and
+taxanes (paclitaxel or docetaxel); and in combination
+with docetaxel for treating metastatic breast cancer
+after failure of prior anthracycline-containing
+therapy;capecitabine is also EMA-approved for the
+first-line treatment of patients with advanced gastric
+cancer in combination with a platinum-based
+regimen.",,,,,
+194,"capecitabine/
+oxaliplatin","MS-stable
+Tier 2C
+Uncertain
+Significance
+KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Sensitive,"Capecitabine and oxaliplatin are chemotherapeutic
+drugs used in combination to treat advanced
+colorectal cancer. This treatment regimen is known
+as CAPOX.",,,,,
+195,fluoropyrimidine,"MS-stable
+Tier 2C
+Uncertain
+Significance
+KRAS
+p.C12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Sensitive,,,,,,
+196,"lenvatinib/
+pembrolizumab","MS-stable
+Uncertain
+Significance",Sensitive,"Lenvatinib, a kinase inhibitor, in combination with
+pembrolizumab,a programmed death receptor-1
+(PD-l)-blocking antibody, is FDA- and EMA-approved
+for the first-line treatment ofadultpatients with
+advanced renal cell carcinoma (RCC); lenvatinib, in
+combination with pembrolizumab, is FDA-approved
+for treating patients with advanced endometrial
+carcinoma (EC) that is not microsatellite instability-
+high (MSI-H) or mismatch repair deficient (dMMR),
+who have disease progression following prior
+systemic therapy in any setting and are not",,,,,
+198,,,"Approved Therapies in Gastric
 Cancer",,,"Approved Therapies in Other
 Indications",,,"Clinical
 Trials"
-25,"Tumor Mutation Burden:
+199,"Tumor Mutation Burden:
 TMB-low (2.78 Mutations
 /Megabase)
 Tier 2C",,,,,"cetuximab
 ipilimumab/nivolumab",,,
-26,"Microsatellite Status:
+200,"Microsatellite Status:
 MS-stable
 Tier 2C",,,,,"5-fluorouracil
 5-fluorouracil/leucovorin
@@ -164,21 +1908,18 @@ capecitabine/oxaliplatin
 cetuximab
 fluoropyrimidine
 lenvatinib/pembrolizumab",,,6
-27,Actionable Variants With Associated Therapies,,,,,Approved Therapies,,,
-28,Gene/Variant,Allelic Fraction,,Gastric Cancer,,Other Indications,"Associated With
+201,Actionable Variants With Associated Therapies,,,,,Approved Therapies,,,
+202,Gene/Variant,Allelic Fraction,,Gastric Cancer,,Other Indications,"Associated With
 Resistance",,"Clinical
 Trials"
-29,"CDKN2A
+203,"CDKN2A
 c.247C>T
 p.H83Y
 g.21971112G>A
 Tier 2C
 Pathogenic","9.22% (of 206
 reads)",,,,,,,2
-30,YOURLAB,"Accession ID: NGSO-221209001
-Patient Name: LAN ZHENG,MEI-CHAN
-Diagnosis: gastric cancer",,Approved Therapies,,Page 2 of 76,,,
-31,"Gene/Variant
+205,"Gene/Variant
 KRAS
 c.35G>C
 p.G12A
@@ -234,9 +1975,228 @@ osimertinib
 panitumumab
 vinorelbine","Clinical
 Trials",,,
-32,YOURLAB,"Accession ID:NGSO-221209001
-Patient Name: LAN ZHENG,MEI-CHAN",Diagnosis: gastric cancer,,Approved Therapies,,Page 4of 76,,
-33,Gene/Variant,Allelic Fraction,,Gastric Cancer,"Other Indications
+207,"Therapies for
+Other Indications",Gene/Variant,Response,Therapies Description,,,,,
+208,,,,"candidates for curative surgery or radiation;
+lenvatinib, in combination with pembrolizumab, is
+EMA-approved for treating adult patients with
+advanced or recurrent endometrial carcinomawho
+have disease progression on or following prior
+treatment with a platinum-containing therapy in any
+setting and who are not candidates for curative
+surgery or radiation.",,,,,
+209,"5-fluorouracil/
+leucovorin
+leucovorin","KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Sensitive,"Leucovorin, irinotecan and fluorouracil are
+chemotherapeutic drugs used in combination to
+treat advanced colorectal cancer.This treatment
+regimen is known as FOLFIRI.",,,,,
+210,"EGFR tyrosine
+kinase inhibitor","KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Resistance,"FDA-approved EGFR tyrosine kinase inhibitors
+include erlotinib,gefitinib,afatinib,dacomitinib,and
+osimertinib.",,,,,
+211,afatinib,"KRAS
+p.C12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Resistance,"Afatinib, a kinase inhibitor, is FDA-approved for
+treating patients with metastatic non-small cell lung
+cancer (NSCLC) whose tumors have non-resistant
+epidermal growth factor receptor (ECFR) mutations
+as detected by an FDA-approved test, as first-line
+treatment; metastatic, squamous NSCLC
+progressing after platinum-based chemotherapy;
+afatinib is EMA-approved for treating adult patients
+with locally advanced or metastatic non-small cell
+lung cancer (NSCLC) with activating EGFR mutation
+(s) who are EGFR TKI-naive; and locally advanced or
+metastatic NSCLC of squamous histology
+progressing on or after platinum based
+chemotherapy.",,,,,
+212,aflibercept,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Sensitive,"Aflibercept, a vascular endothelial growth factor
+inhibitor, in combination with 5-fluorouracil,
+leucovorin,and irinotecanis FDA-and EMA
+approved for treating patients with metastatic
+colorectal cancer that is resistant to or has
+progressed following an oxaliplatin-containing
+regimen.",,,,,
+213,atezolizumab,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic",Sensitive,"Atezolizumab, a programmed death-ligand 1 (PD-Ll)
+blocking antibody, is FDA- and EMA-approved for
+treating adult patients with locally advanced or
+metastatic urothelial carcinoma who are not eligible
+for cisplatin-containing chemotherapy and whose
+tumors express PD-LI (PD-LI stained tumor-
+infiltrating immune cells [IC] covering  5% of the",,,,,
+215,"Therapies for
+Other Indications",Gene/Variant,Response,"Therapies Description
+unresectable malignant pleural mesothelioma, as
+first-line treatment; and for treating patients with
+intermediate or poor risk advanced renal cell
+carcinoma, as first-line treatment; nivolumab, in
+combination with ipilimumab, is FDA-approved for
+treating adult patients with metastatic non-small
+cell lung cancer expressing PD-LI (1%) as
+determined by an FDA-approved test,with no EGFR
+or ALK genomic tumor aberrations,as first-line
+treatment; for treating adult and pediatric (12 years
+and older) patients with microsatellite instability-
+high (MSI-H) or mismatch repair deficient (dMMR)
+metastatic colorectal cancer that has progressed
+following treatment with a fluoropyrimidine,
+oxaliplatin, and irinotecan; for treating patients with
+hepatocellular carcinoma who have been previously
+treated with sorafenib;and unresectable advanced
+or metastatic esophageal squamous cell carcinoma
+as first-line treatment;nivolumab,in combination
+with ipilimumab, is EMA-approved for treating adult
+patients with mismatch repair deficient or
+microsatellite instability-high metastatic colorectal
+cancer after prior fluoropyrimidine-based
+combination chemotherapy; and for the first-line
+treatment of adult patients with unresectable
+advanced, recurrent or metastatic oesophageal
+squamous cell carcinoma with tumour cell PD-Ll
+expression1%.",,,,,
+216,5-fluorouracil,"MS-stable
+Tier 2C
+Uncertain
+Significance",Sensitive,"5-fluorouracil is an antimetabolite fluoropyrimidine
+analog of the nucleoside pyrimidine. Fluorouracil is
+converted in vivo to active metabolites which block
+DNA and RNA synthesis, thereby inhibiting cell
+growth. Fluorouracil is used to treat several types of
+cancer including colon, rectal, and head and neck
+cancers.",,,,,
+217,"5-fluorouracil/
+leucovorin","MS-stable
+Tier 2C
+Uncertain
+Significance",Sensitive,,,,,,
+218,"5-fluorouracil/
+leucovorin/
+oxaliplatin","MS-stable
+Tier 2C
+Uncertain
+Significance
+KRAS
+p.G12A
+g.2524535OC>G",Sensitive,"Leucovorin, oxaliplatin and fluorouracil are
+chemotherapeutic drugs used in combination to
+treat colorectal cancer. This treatment regimen is
+known as FOLFOX.",,,,,
+220,Gene/Variant,,"Trial Title
+Trial ID
+Colorectal Cancer
+NCT02675946",,,Treatments,"Trial
+Phase",Location/ Contact,
+221,"TP53
+p.R248Q
+Tier 2C
+Pathogenic",,NCT03964233,"A Phase Ia/Ib, Open Label, Dose-
+escalation Study of the Combination of
+(Ezabenlimab) and BI 75411l and the
+Combination of BI 907828 With BI
+754091(Ezabenlimab) Followed by
+Advanced Solid Tumors",,"miptenalimab
+BI 907828
+ezabenlimab
+Expansion Cohorts, in Patients With",Phasel,"United States: CT, NY
+clintriage.rdg@boehri
+nger-ingelheim.com;",
+222,"TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",,"Junction Cancer
+NCT03641313","APhase2Single-Arm Study of M6620
+in Combination With Irinotecan in
+Patients With Progressive TP53 Mutant
+Junction Cancer",,"irinotecan
+berzosertib
+Gastric and Gastro-Esophageal",Phase 2,"United States:CA,FL
+OK, TN, UT
+for contact information",
+223,"Individual Variant Interpretations
+
+Classification Tier 2C
+
+
+Classification Tier 2C
+
+
+
+
+
+
+
+
+Allelic Fraction 9.22% (of 206 reads)
+Classification Tier 2C
+Assessment Pathogenic
+
+
+
+
+
+Amino Acid p.Gl2A
+
+Allelic Fraction 39.0% (of 160 reads)
+Classification Tier 2C","Biomarker TMB-low
+Assessment Uncertain Significance
+Biomarker MS-stable
+Assessment Uncertain Significance
+Gene CDKN2A
+Exon 2
+Nucleotide NM_000077.5:
+
+c.247C>T
+Amino Acid p.H83Y
+Function loss
+Gene KRAS
+Exon 2
+Nucleotide NM_004985.5:
+
+
+Function gain
+Assessment Pathogenic","g.21971112G>A
+g.25245350C>G
+c.35G>C",,"Interpretation
+ No information available
+Interpretation
+No information available
+Interpretation
+The CDKN2A gene encodes multiple proteins, including the tumor
+suppressor pl6INK4a (also known as Mtsl), which plays a vital role in cell
+cycle Gl checkpoint regulation and is an inhibitor of Cdk4 activity.
+CDKN2A also encodes pl4ARF,which regulates p53 by interacting with
+Mdm2 [278,232,279].Because the CDKN2A and CDKN2B gene products
+encode proteins that act as tumor suppressors, deletion or loss of activity
+may result in deregulation of the pl6INK4a/Cdk4/Cyclin/Rb and/or the
+Mdm2/p53 pathways, and altered regulation of the cell cycle [72, 279].
+Interpretation
+KRAS is an oncogene that encodes K-Ras,a member of the Ras family of
+membrane proteins that bind GDP/GTP and possess GTPase activity.
+Activation of Ras signaling causes cell growth, differentiation, and survival
+[191,115].The KRAS gene is one of the most commonly mutated genes in
+human malignancies, with high incidences in pancreatic, colorectal, and
+lung cancers [65, 84, 64].",,,,
+225,Gene/Variant,Allelic Fraction,,Gastric Cancer,"Other Indications
 lenalidomide
 /rituximab
 obinutuzumab
@@ -250,7 +2210,7 @@ venetoclax
 zanubrutinib","Associated With
 Resistance","Clinical
 Trials",,
-34,"ERBB2
+226,"ERBB2
 p.V116M
 g.3970844lG>A
 Tier 3
@@ -280,20 +2240,17 @@ neratinib
 osimertinib
 paclitaxel
 pemetrexed",,,,
-35,YOURLAB,"Accession ID: NGSO-221209001
-Patient Name: LAN ZHENG,MEI-CHAN
-Diagnosis: gastric cancer",,Approved Therapies,,,Page 3 of 76,,
-36,Gene/Variant,Allelic Fraction,Gastric Cancer,Other Indications,"Associated With
+228,Gene/Variant,Allelic Fraction,Gastric Cancer,Other Indications,"Associated With
 Resistance","Clinical
 Trials",,,
-37,"MRE11
+229,"MRE11
 c.689C>T
 p.P230L
 g.94471730G>A
 Tier 2C
 Likely Pathogenic","50.0% (of 229
 reads)",,,,2,,,
-38,"POLE
+230,"POLE
 p.V1446fs*3
 g.132643513_132643
 514de|CA
@@ -302,7 +2259,7 @@ Pathogenic","2.88% (of 139 reads)
 Tier 2C",trifluridine,"cladribine
 cytarabine",,"clofarabine
 daunorubicin",,,
-39,"RNF43
+231,"RNF43
 c.813_825de|GTGTG
 CCATCTGT
 p.C272fs*143
@@ -311,7 +2268,7 @@ g.58360807_583608
 CAC
 Tier 2C
 Likely Pathogenic",7.71% (of 441 reads),,,,,,,
-40,"TP53
+232,"TP53
 c.743G>A
 p.R248Q
 g.7674220C>T
@@ -336,3 +2293,138 @@ lenalidomide","chlorambucil
 fludarabine
 lenalidomide
 rituximab",2,,,
+234,Gene/Variant,"Trial Title
+Trial ID",Treatments,"Trial
+Phase",Location/ Contact,,,,
+235,"CDKN2A
+p.H83Y
+Tier 2C
+Pathogenic","Canadian Profiling and Targeted Agent
+Utilization Trial (CAPTUR): A Phase II
+NCT03297606",palbociclib,Phase 2,"10 location
+worldwide
+a;
+613-533-6430;",Janet Dancey;,,,
+236,"CDKN2A
+p.H83Y
+g.21971112G>A
+Tier 2C
+Pathogenic","Targeted Agent and Profiling Utilization
+Registry (TAPUR) Study
+NCTO2693535","palbociclib
+abemaciclib",Phase 2,"United States: AL, AZ,
+IN, ME, MI, NC, Nd,
+NE, NH, NM, NY, OH,
+OR, PA, SC, SD, TN,
+TX,UT,VA,WA,WI
+MPH;
+MPH;
+john.lybarger@asco.or
+:6","John M Lybarger,",,,
+237,"KRAS
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic","Phase 1/Ib Multicenter Open-Label
+Study of RMC-6236 in Subjects With
+Advanced Solid Tumors Harboring
+Specific Mutations in KRAS
+NCT05379985",RMC-6236,Phasel,"United States: MA,
+NY, OH, TN, TX, UT,
+VA
+Revolution
+Medicines, Inc.;
+rmc-6236_ct-inquiry@r
+evmed.com;
+(650) 779-2300;",,,,
+238,"MRE11
+g.94471730G>A
+Tier 2C
+Tier 2C
+Likely Pathogenic","Niraparib Plus Carboplatin in Patients
+Deficient Advanced Solid Tumor
+Malignancies
+NCT03209401",carboplatin,Phasel,"United States: DC,
+Malignancies
+for contact information.",niraparib,,,
+239,"MRE11
+p.P230L
+Tier 2C
+Likely Pathogenic","A Pharmacodynamics-Driven Trial of
+Talazoparib, an Oral PARP Inhibitor, in
+DNA Damage Response
+NCT04550494",talazoparib,Phase 2,"United States: FL,
+MD,OK
+and Aberrations in Genes Involved in",Tier 2C,,,
+240,"RNF43
+p.C272fs*143
+g.58360807_58360
+ACAC
+Tier 2C
+Likely Pathogenic","A Phase 1Open-label Dose Escalation
+Study of CGX1321 in Subjects With
+Advanced Solid Tumors With
+in Subjects With Advanced Colorectal
+Cancer or in Combination With
+Encorafenib+Cetuximab in Subjects
+With BRAFV600E Mutated Advanced","cetuximab
+CCX1321",Phasel,"United States:DC,
+Laurie Rosenstein;
+Tumors and Phase 1b Study of CGX1321
+in Combination With Pembrolizumab",nix.com;,,,
+242,Therapies,Gene/Variant,Response,Therapies Description,,,,,
+243,Therapeutic Implications for Other Indications,,,"HER2-positive gastric or gastroesophageal junction
+adenocarcinoma who have received a prior
+trastuzumab-based regimen; trastuzumab
+deruxtecan is EMA-approved for treating adult
+patients with unresectable or metastatic HER2
+positive breast cancer who have received one or
+more prior anti-HER2-based regimens.",,,,,
+244,"Therapies for
+Other Indications",Gene/Variant,Response,Therapies Description,,,,,
+245,cetuximab,"Tier 2C
+Uncertain
+Significance
+MS-stable
+Tier 2C
+Uncertain
+Significance",,"Cetuximab, an epidermal growth factor receptor
+antagonist, is FDA-approved for treating patients
+with locally or regionally advanced squamous cell
+carcinoma of the head and neck in combination with
+metastatic squamous cell carcinoma of the head
+and neck in combination with platinum-based
+therapy with 5-FU; recurrent or metastatic
+squamous cell carcinoma of the head and neck
+progressing after platinum-based therapy; KRAS
+wild-type, EGFR-expressing, metastatic colorectal
+cancer in combination with FOLFIRI for first-line
+treatment, or in combination with irinotecan in
+patients who are refractory to irinotecan-based
+chemotherapy, or as a single agent in patients who
+have failed oxaliplatin- and irinotecan-based
+chemotherapy or who are intolerant to irinotecan
+cetuximab is EMA-approved for treating patients
+with EGFR-expressing,RAS wild-type metastatic
+colorectal cancer in combination with irinotecan-
+based chemotherapy, in first-line in combination
+with FOLFOX, as a single agent in patients who have
+failed oxaliplatin- and irinotecan-based therapy and
+who are intolerant to irinotecan; squamous cell
+cancer of the head and neck in combination with
+radiation therapy for locally advanced disease, and in
+combination with platinum-based chemotherapy for
+recurrent and/or metastatic disease.",,,,,
+246,"ipilimumab/
+nivolumab","TMB-low
+Tier 2C
+Uncertain
+Significance",Sensitive,"Nivolumab, a PD-1 blocking antibody, in combination
+with ipilimumab,a CTLA-4 blocking antibody, is
+FDA- and EMA-approved for treating patients with
+unresectable or metastatic melanoma;for treating
+adult patients with metastatic or recurrent non-
+small cell lung cancer with no EGFR or ALK genomic
+tumor aberrations as first-line treatment, in
+combination with 2 cycles of platinum-doublet
+chemotherapy; for treating adult patients with",,,,,

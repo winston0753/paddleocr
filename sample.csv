@@ -1,47 +1,52 @@
-,0,1,2,3,4,5,6
-0,,Accession ID: NGSO-221209001,Accession ID: NGSO-221209001,Accession ID: NGSO-221209001,Accession ID: NGSO-221209001,,Page 3 of 76
-1,,"Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN",,"Patient Name: LAN ZHENG,MEI-CHAN"
-2,,Diagnosis: gastric cancer,Diagnosis: gastric cancer,Diagnosis: gastric cancer,Diagnosis: gastric cancer,,Diagnosis: gastric cancer
-3,YOURLAB,YOURLAB,YOURLAB,YOURLAB,YOURLAB,YOURLAB,YOURLAB
-4,,,,Approved Therapies,Approved Therapies,,Approved Therapies
-5,,,,,Associated With,Clinical,Clinical
-6,Gene/Variant,Allelic Fraction,Gastric Cancer,Other Indications,Resistance,Trials,Trials
-7,MRE11,50.0% (of 229,50.0% (of 229,50.0% (of 229,50.0% (of 229,2,2
-8,c.689C>T,reads),reads),reads),reads),reads),reads)
-9,p.P230L,p.P230L,p.P230L,p.P230L,p.P230L,p.P230L,p.P230L
-10,g.94471730G>A,g.94471730G>A,g.94471730G>A,g.94471730G>A,g.94471730G>A,,g.94471730G>A
-11,Tier 2C,Tier 2C,Tier 2C,Tier 2C,Tier 2C,Tier 2C,Tier 2C
-12,Likely Pathogenic,Likely Pathogenic,Likely Pathogenic,Likely Pathogenic,Likely Pathogenic,,Likely Pathogenic
-13,POLE,2.88% (of 139 reads),trifluridine,cladribine,cladribine,cladribine,cladribine
-14,p.V1446fs*3,p.V1446fs*3,p.V1446fs*3,p.V1446fs*3,p.V1446fs*3,clofarabine,p.V1446fs*3
-15,g.132643513_132643,g.132643513_132643,g.132643513_132643,cytarabine,cytarabine,cytarabine,cytarabine
-16,514de|CA,Tier 2C,Tier 2C,Tier 2C,Tier 2C,daunorubicin,Tier 2C
-17,Tier 2C,Tier 2C,Tier 2C,Tier 2C,Tier 2C,Tier 2C,Tier 2C
-18,Pathogenic,Pathogenic,Pathogenic,Pathogenic,Pathogenic,Pathogenic,Pathogenic
-19,RNF43,7.71% (of 441 reads),7.71% (of 441 reads),7.71% (of 441 reads),7.71% (of 441 reads),RNF43,7.71% (of 441 reads)
-20,c.813_825de|GTGTG,c.813_825de|GTGTG,c.813_825de|GTGTG,c.813_825de|GTGTG,c.813_825de|GTGTG,,c.813_825de|GTGTG
-21,CCATCTGT,CCATCTGT,CCATCTGT,CCATCTGT,CCATCTGT,CCATCTGT,CCATCTGT
-22,p.C272fs*143,p.C272fs*143,p.C272fs*143,p.C272fs*143,p.C272fs*143,p.C272fs*143,p.C272fs*143
-23,g.58360807_583608,g.58360807_583608,g.58360807_583608,g.58360807_583608,g.58360807_583608,,g.58360807_583608
-24,19delACAGATGGCA,19delACAGATGGCA,19delACAGATGGCA,19delACAGATGGCA,19delACAGATGGCA,,19delACAGATGGCA
-25,CAC,CAC,CAC,CAC,CAC,CAC,CAC
-26,Tier 2C,Tier 2C,Tier 2C,Tier 2C,Tier 2C,Tier 2C,Tier 2C
-27,Likely Pathogenic,Likely Pathogenic,Likely Pathogenic,Likely Pathogenic,Likely Pathogenic,,Likely Pathogenic
-28,TP53,8.13%(of246 reads),8.13%(of246 reads),acalabrutinib,chlorambucil,2,2
-29,c.743G>A,c.743G>A,c.743G>A,acalabrutinib,fludarabine,c.743G>A,fludarabine
-30,p.R248Q,p.R248Q,p.R248Q,/obinutuzumab,/obinutuzumab,p.R248Q,/obinutuzumab
-31,g.7674220C>T,g.7674220C>T,g.7674220C>T,g.7674220C>T,lenalidomide,,lenalidomide
-32,Tier 2C,Tier 2C,Tier 2C,alemtuzumab,rituximab,rituximab,rituximab
-33,Pathogenic,Pathogenic,Pathogenic,alemtuzumab,alemtuzumab,Pathogenic,alemtuzumab
-34,,,,/rituximab,/rituximab,/rituximab,/rituximab
-35,,,,bortezomib,bortezomib,bortezomib,bortezomib
-36,,,,/rituximab,/rituximab,/rituximab,/rituximab
-37,,,,decitabine,decitabine,decitabine,decitabine
-38,,,,duvelisib,duvelisib,duvelisib,duvelisib
-39,,,,fludarabine,fludarabine,fludarabine,fludarabine
-40,,,,phosphate,phosphate,phosphate,phosphate
-41,,,,ibrutinib,ibrutinib,ibrutinib,ibrutinib
-42,,,,idelalisib,idelalisib,idelalisib,idelalisib
-43,,,,idelalisib,idelalisib,idelalisib,idelalisib
-44,,,,/rituximab,/rituximab,/rituximab,/rituximab
-45,,,,lenalidomide,lenalidomide,lenalidomide,lenalidomide
+,0,1,2,3,4
+0,,Accession ID:NGSO-221209001,Accession ID:NGSO-221209001,Accession ID:NGSO-221209001,Page 11 of 76
+1,,"Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN"
+2,,Diagnosis: gastric cancer,Diagnosis: gastric cancer,Diagnosis: gastric cancer,Diagnosis: gastric cancer
+3,YOURLAB,YOURLAB,YOURLAB,YOURLAB,YOURLAB
+4,Therapies,Gene/Variant,Response,Therapies Description,Therapies Description
+5,,,,HER2-positive gastric or gastroesophageal junction,HER2-positive gastric or gastroesophageal junction
+6,,,,adenocarcinoma who have received a prior,adenocarcinoma who have received a prior
+7,,,,trastuzumab-based regimen; trastuzumab,trastuzumab-based regimen; trastuzumab
+8,,,,deruxtecan is EMA-approved for treating adult,deruxtecan is EMA-approved for treating adult
+9,,,,patients with unresectable or metastatic HER2,patients with unresectable or metastatic HER2
+10,,,,positive breast cancer who have received one or,positive breast cancer who have received one or
+11,,,,more prior anti-HER2-based regimens.,more prior anti-HER2-based regimens.
+12,Therapeutic Implications for Other Indications,Therapeutic Implications for Other Indications,Therapeutic Implications for Other Indications,Therapeutic Implications for Other Indications,Therapeutic Implications for Other Indications
+13,Therapies for,Therapies for,Therapies for,Therapies for,Therapies for
+14,Other Indications,Gene/Variant,Response,Therapies Description,Therapies Description
+15,cetuximab,cetuximab,cetuximab,"Cetuximab, an epidermal growth factor receptor","Cetuximab, an epidermal growth factor receptor"
+16,,Tier 2C,Tier 2C,"antagonist, is FDA-approved for treating patients","antagonist, is FDA-approved for treating patients"
+17,,Uncertain,Uncertain,with locally or regionally advanced squamous cell,with locally or regionally advanced squamous cell
+18,,Significance,Significance,carcinoma of the head and neck in combination with,carcinoma of the head and neck in combination with
+19,,MS-stable,MS-stable,metastatic squamous cell carcinoma of the head,MS-stable
+20,,Tier 2C,Tier 2C,and neck in combination with platinum-based,and neck in combination with platinum-based
+21,,Uncertain,Uncertain,therapy with 5-FU; recurrent or metastatic,therapy with 5-FU; recurrent or metastatic
+22,,Significance,Significance,squamous cell carcinoma of the head and neck,Significance
+23,,,,progressing after platinum-based therapy; KRAS,progressing after platinum-based therapy; KRAS
+24,,,,"wild-type, EGFR-expressing, metastatic colorectal","wild-type, EGFR-expressing, metastatic colorectal"
+25,,,,cancer in combination with FOLFIRI for first-line,cancer in combination with FOLFIRI for first-line
+26,,,,"treatment, or in combination with irinotecan in","treatment, or in combination with irinotecan in"
+27,,,,patients who are refractory to irinotecan-based,patients who are refractory to irinotecan-based
+28,,,,"chemotherapy, or as a single agent in patients who","chemotherapy, or as a single agent in patients who"
+29,,,,have failed oxaliplatin- and irinotecan-based,have failed oxaliplatin- and irinotecan-based
+30,,,,chemotherapy or who are intolerant to irinotecan,chemotherapy or who are intolerant to irinotecan
+31,,,,cetuximab is EMA-approved for treating patients,cetuximab is EMA-approved for treating patients
+32,,,,"with EGFR-expressing,RAS wild-type metastatic","with EGFR-expressing,RAS wild-type metastatic"
+33,,,,colorectal cancer in combination with irinotecan-,colorectal cancer in combination with irinotecan-
+34,,,,"based chemotherapy, in first-line in combination","based chemotherapy, in first-line in combination"
+35,,,,"with FOLFOX, as a single agent in patients who have","with FOLFOX, as a single agent in patients who have"
+36,,,,failed oxaliplatin- and irinotecan-based therapy and,failed oxaliplatin- and irinotecan-based therapy and
+37,,,,who are intolerant to irinotecan; squamous cell,who are intolerant to irinotecan; squamous cell
+38,,,,cancer of the head and neck in combination with,cancer of the head and neck in combination with
+39,,,,"radiation therapy for locally advanced disease, and in","radiation therapy for locally advanced disease, and in"
+40,,,,combination with platinum-based chemotherapy for,combination with platinum-based chemotherapy for
+41,,,,recurrent and/or metastatic disease.,recurrent and/or metastatic disease.
+42,ipilimumab/,TMB-low,Sensitive,"Nivolumab, a PD-1 blocking antibody, in combination","Nivolumab, a PD-1 blocking antibody, in combination"
+43,nivolumab,Tier 2C,Tier 2C,"with ipilimumab,a CTLA-4 blocking antibody, is","with ipilimumab,a CTLA-4 blocking antibody, is"
+44,,Uncertain,Uncertain,FDA- and EMA-approved for treating patients with,FDA- and EMA-approved for treating patients with
+45,,Significance,Significance,unresectable or metastatic melanoma;for treating,unresectable or metastatic melanoma;for treating
+46,,,,adult patients with metastatic or recurrent non-,adult patients with metastatic or recurrent non-
+47,,,,small cell lung cancer with no EGFR or ALK genomic,small cell lung cancer with no EGFR or ALK genomic
+48,,,,"tumor aberrations as first-line treatment, in","tumor aberrations as first-line treatment, in"
+49,,,,combination with 2 cycles of platinum-doublet,combination with 2 cycles of platinum-doublet
+50,,,,chemotherapy; for treating adult patients with,chemotherapy; for treating adult patients with
