@@ -1,0 +1,338 @@
+,0,1,2,3,4,5,6,7,8
+0,YOURLAB,,"Accession ID:NGSO-221209001
+Patient Name: LAN ZHENG,MEI-CHAN
+Diagnosis: gastric cancer",,,,Page 6 of 76,,
+1,Gene/Variant,,Allelic Fraction,Function,Classification,Assessment,,,
+2,"p.N31K
+g.47373479C>G",,,,,,,,
+3,"ERBB2
+c.346G>A
+p.VI16M
+g.39708441G>A",,"47.0% (of 459
+reads)",loss,Tier 3,Uncertain Significance,,,
+4,"ERBB3
+c.3380G>A
+p.R1127H
+g.56101239G>A",,"48.0% (of 629
+reads)",normal,Tier 3,Uncertain Significance,,,
+5,"ERCC5
+c.2108A>G
+p.D703G
+g.102865820A>G",,"48.0% (of 238
+reads)",normal,Tier 3,Uncertain Significance,,,
+6,"FAT1
+c.3337G>A
+p.D1ll3N
+g.186663542C>T",,38.0% (of 219 reads),loss,Tier 3,Uncertain Significance,,,
+7,"FGFR4
+c.1871A>C
+p.N624T
+g.177096106A>C",,"48.0% (of 145
+reads)",normal,Tier 3,Uncertain Significance,,,
+8,"FUBP1
+c.733C>G
+p.Q245E
+g.77964872G>C",,52.0% (of 221 reads),loss,Tier 3,Uncertain Significance,,,
+9,"HLA-A
+c
+538_539delTTinsCA
+p.L180Q
+g.29943462_299434
+63delTTinsCA",,100.0% (of 63 reads),,Tier 3,Uncertain Significance,,,
+10,"HLA-A
+C.
+559_560delACinsCG
+p.T187R
+g.29943483_299434
+84delACinsCG",,54.0% (of 119 reads),normal,Tier 3,Uncertain Significance,,,
+11,"HLA-A
+C.
+570_571delGTinsCG
+p.
+E190_W191delinsDG",,45.0% (of 152 reads),loss,Tier 3,Uncertain Significance,,,
+12,YOURLAB,"Accession ID:NGSO-221209001
+Patient Name: LAN ZHENG,MEI-CHAN
+Diagnosis: gastric cancer",,Approved Therapies,,Page 5 of 76,,,
+13,Gene/Variant,Allelic Fraction,Gastric Cancer,Other Indications,"Associated With
+Resistance","Clinical
+Trials",,,
+14,,,,"pertuzumab
+trastuzumab
+emtansine
+tucatinib",,,,,
+15,"ERBB3
+p.R1127H
+g.56101239G>A
+Tier 3
+Uncertain
+Significance",48.0% (of 629,,"afatinib
+dacomitinib
+neratinib
+osimertinib
+osimertinib",,,,,
+16,"FGFR4
+c.1871A>C
+p.N624T
+g.177096106A>C
+Tier 3
+Uncertain
+Significance",48.0% (of 145 reads),,"erdafitinib
+futibatinib
+infigratinib
+lenvatinib
+ponatinib
+regorafenib",,,,,
+17,"JAK3
+c.2660G>A
+p.R887H
+g.17832539C>T
+Tier 3
+Uncertain
+Significance","58.0% (of262
+reads)",,ruxolitinib,,,,,
+18,Variants of Unknown Clinical Significance,,,,,,,,
+19,Gene/Variant,Allelic Fraction,Function,Classification,Assessment,,,,
+20,"AMERT
+c.1646G>A
+p.R549Q
+g.64191641C>T",6.43% (of 311 reads),normal,Tier 3,Uncertain Significance,,,,
+21,"CRLF2
+c.29C>T
+p.P1OL
+g.1202520G>A","43.0% (of 326
+reads)",loss,Tier 3,Uncertain Significance,,,,
+22,"EPCAM
+c.93C>G",36.0% (of 163 reads),normal,Tier 3,Uncertain Significance,,,,
+23,"YOURLAB
+Test Performed: Somatic Panel
+
+
+Patient Name LAN ZHENG,MEI-
+
+Date of Birth Nov 25,1935
+
+
+
+
+Result:
+6
+Clinically Significant
+Variants
+Biomarker Findings","1700 Lincoln Blvd, Suite 20, Redwood City, CA 94063
+labxyz.com/(650)4844040
+
+
+Patient
+CHAN
+Age 87
+Sex Female
+Ethnicity East Asian
+Diagnosis gastric cancer
+Positive","14
+Therapies Associated with
+Resistance","Client AN,HE
+Client ID 037658
+Physician JANG,REN-CHIN
+Pathologist","Client
+76
+Therapies with Potential
+Clinical Benefit",,"Report Date Dec 19,2022
+
+Accession ID NGSO-221209001
+Specimen
+Collection Dec 9,2022
+Accession Dec 20,2022
+Primary Tumor Site Stomach
+Clinical Trials","Status-
+Specimen",
+24,,,"Approved Therapies in Gastric
+Cancer",,,"Approved Therapies in Other
+Indications",,,"Clinical
+Trials"
+25,"Tumor Mutation Burden:
+TMB-low (2.78 Mutations
+/Megabase)
+Tier 2C",,,,,"cetuximab
+ipilimumab/nivolumab",,,
+26,"Microsatellite Status:
+MS-stable
+Tier 2C",,,,,"5-fluorouracil
+5-fluorouracil/leucovorin
+5-fluorouracil/leucovorin/oxaliplatin
+capecitabine
+capecitabine/oxaliplatin
+cetuximab
+fluoropyrimidine
+lenvatinib/pembrolizumab",,,6
+27,Actionable Variants With Associated Therapies,,,,,Approved Therapies,,,
+28,Gene/Variant,Allelic Fraction,,Gastric Cancer,,Other Indications,"Associated With
+Resistance",,"Clinical
+Trials"
+29,"CDKN2A
+c.247C>T
+p.H83Y
+g.21971112G>A
+Tier 2C
+Pathogenic","9.22% (of 206
+reads)",,,,,,,2
+30,YOURLAB,"Accession ID: NGSO-221209001
+Patient Name: LAN ZHENG,MEI-CHAN
+Diagnosis: gastric cancer",,Approved Therapies,,Page 2 of 76,,,
+31,"Gene/Variant
+KRAS
+c.35G>C
+p.G12A
+g.25245350C>G
+Tier 2C
+Pathogenic","Allelic Fraction
+39.0% (of 160 reads)",Gastric Cancer,"Other Indications
+5-fluorouracil
+Virinotecan
+/leucovorin
+5-fluorouracil
+/leucovorin
+/oxaliplatin
+aflibercept
+atezolizumab
+bevacizumab
+binimetinib
+capecitabine
+/oxaliplatin
+carboplatin
+/gemcitabine
+carboplatin
+/paclitaxel
+cisplatin
+/docetaxel
+cisplatin
+/gemcitabine
+cisplatin
+/paclitaxel
+cisplatin
+/pemetrexed
+cobimetinib
+docetaxel
+fluoropyrimidine
+gemcitabine
+paclitaxel
+pemetrexed
+ramucirumab
+regorafenib
+selumetinib
+sotorasib
+tipiracil
+trametinib","Associated With
+Resistance
+EGFR tyrosine
+kinase inhibitor
+afatinib
+cisplatin
+crizotinib
+erlotinib
+gefitinib
+osimertinib
+panitumumab
+vinorelbine","Clinical
+Trials",,,
+32,YOURLAB,"Accession ID:NGSO-221209001
+Patient Name: LAN ZHENG,MEI-CHAN",Diagnosis: gastric cancer,,Approved Therapies,,Page 4of 76,,
+33,Gene/Variant,Allelic Fraction,,Gastric Cancer,"Other Indications
+lenalidomide
+/rituximab
+obinutuzumab
+obinutuzumab
+/venetoclax
+ofatumumab
+rituximab
+rituximab
+/venetoclax
+venetoclax
+zanubrutinib","Associated With
+Resistance","Clinical
+Trials",,
+34,"ERBB2
+p.V116M
+g.3970844lG>A
+Tier 3
+Uncertain
+Significance","47.0% (of 459
+p.V116M",,trastuzumab,"afatinib
+carboplatin
+/gemcitabine
+carboplatin
+/paclitaxel
+cisplatin
+/docetaxel
+cisplatin
+/gemcitabine
+cisplatin
+/paclitaxel
+cisplatin
+/pemetrexed
+dacomitinib
+docetaxel
+erlotinib
+gemcitabine
+lapatinib
+margetuximab
+mobocertinib
+neratinib
+osimertinib
+paclitaxel
+pemetrexed",,,,
+35,YOURLAB,"Accession ID: NGSO-221209001
+Patient Name: LAN ZHENG,MEI-CHAN
+Diagnosis: gastric cancer",,Approved Therapies,,,Page 3 of 76,,
+36,Gene/Variant,Allelic Fraction,Gastric Cancer,Other Indications,"Associated With
+Resistance","Clinical
+Trials",,,
+37,"MRE11
+c.689C>T
+p.P230L
+g.94471730G>A
+Tier 2C
+Likely Pathogenic","50.0% (of 229
+reads)",,,,2,,,
+38,"POLE
+p.V1446fs*3
+g.132643513_132643
+514de|CA
+Tier 2C
+Pathogenic","2.88% (of 139 reads)
+Tier 2C",trifluridine,"cladribine
+cytarabine",,"clofarabine
+daunorubicin",,,
+39,"RNF43
+c.813_825de|GTGTG
+CCATCTGT
+p.C272fs*143
+g.58360807_583608
+19delACAGATGGCA
+CAC
+Tier 2C
+Likely Pathogenic",7.71% (of 441 reads),,,,,,,
+40,"TP53
+c.743G>A
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",8.13%(of246 reads),,"acalabrutinib
+acalabrutinib
+/obinutuzumab
+alemtuzumab
+alemtuzumab
+/rituximab
+bortezomib
+/rituximab
+decitabine
+duvelisib
+fludarabine
+phosphate
+ibrutinib
+idelalisib
+idelalisib
+/rituximab
+lenalidomide","chlorambucil
+fludarabine
+lenalidomide
+rituximab",2,,,

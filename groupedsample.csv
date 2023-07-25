@@ -1,55 +1,61 @@
-,0,1,2,3,4,5
-0,YOUR LAB,"Accession ID: NGSO-221209001
+,0,1,2,3,4
+0,YOURLAB,"Accession ID:NGSO-221209001
 Patient Name: LAN ZHENG,MEI-CHAN
-
-Report Date: Dec 19,2022",Diagnosis: gastric cancer,Approved Therapies,"Report Date: Dec 19,2022",Page 5 of 76
-1,Gene /Variant,Allelic Fraction,Gastric Cancer,Other Indications,"Associated With
-Resistance","Clinical
-Trials"
-2,,,,"pertuzumab
-trastuzumab
-emtansine
-tucatinib",,
-3,"ERBB3
-p.Rl127H
-g.56101239G>A
-Tier 3
+Diagnosis: gastric cancer",,,Page 12 of 76
+1,"Therapies for
+Other Indications",Gene/Variant,Response,"Therapies Description
+unresectable malignant pleural mesothelioma, as
+first-line treatment; and for treating patients with
+intermediate or poor risk advanced renal cell
+carcinoma, as first-line treatment; nivolumab, in
+combination with ipilimumab, is FDA-approved for
+treating adult patients with metastatic non-small
+cell lung cancer expressing PD-LI (1%) as
+determined by an FDA-approved test,with no EGFR
+or ALK genomic tumor aberrations,as first-line
+treatment; for treating adult and pediatric (12 years
+and older) patients with microsatellite instability-
+high (MSI-H) or mismatch repair deficient (dMMR)
+metastatic colorectal cancer that has progressed
+following treatment with a fluoropyrimidine,
+oxaliplatin, and irinotecan; for treating patients with
+hepatocellular carcinoma who have been previously
+treated with sorafenib;and unresectable advanced
+or metastatic esophageal squamous cell carcinoma
+as first-line treatment;nivolumab,in combination
+with ipilimumab, is EMA-approved for treating adult
+patients with mismatch repair deficient or
+microsatellite instability-high metastatic colorectal
+cancer after prior fluoropyrimidine-based
+combination chemotherapy; and for the first-line
+treatment of adult patients with unresectable
+advanced, recurrent or metastatic oesophageal
+squamous cell carcinoma with tumour cell PD-Ll
+expression1%.",
+2,5-fluorouracil,"MS-stable
+Tier 2C
 Uncertain
-Significance",48.0% (of 629,,"afatinib
-dacomitinib
-neratinib
-osimertinib",,
-4,"FGFR4
-c.1871A>C
-p.N624T
-g.177096106A>C
-Tier 3
+Significance",Sensitive,"5-fluorouracil is an antimetabolite fluoropyrimidine
+analog of the nucleoside pyrimidine. Fluorouracil is
+converted in vivo to active metabolites which block
+DNA and RNA synthesis, thereby inhibiting cell
+growth. Fluorouracil is used to treat several types of
+cancer including colon, rectal, and head and neck
+cancers.",
+3,"5-fluorouracil/
+leucovorin","MS-stable
+Tier 2C
 Uncertain
-Significance",48.0% (of 145 reads),,"erdafitinib
-futibatinib
-infigratinib
-lenvatinib
-ponatinib
-ponatinib
-regorafenib",,
-5,"JAK3
-c.2660G>A
-p.R887H
-g.17832539C>T
-Tier 3
+Significance",Sensitive,,
+4,"5-fluorouracil/
+leucovorin/
+oxaliplatin","MS-stable
+Tier 2C
 Uncertain
-Significance","58.0% (of 262
-reads)",,ruxolitinib,,
-6,Variants of Unknown Clinical Significance,,,,,
-7,Gene / Variant,Allelic Fraction,Function,Classification,Assessment,
-8,"AMERI
-c.l646G>A
-p.R549Q
-g.6419164lC>T",6.43% (of 311 reads),normal,Tier 3,Uncertain Significance,
-9,"CRLF2
-c.29C>T
-p.P1OL
-g.1202520G>A","43.0% (of 326
-reads)",loss,Tier 3,Uncertain Significance,
-10,"EPCAM
-c.93C>G",36.0% (of 163 reads),normal,Tier 3,Uncertain Significance,
+Significance
+KRAS
+p.G12A
+g.2524535OC>G",Sensitive,"Leucovorin, oxaliplatin and fluorouracil are
+chemotherapeutic drugs used in combination to
+treat colorectal cancer. This treatment regimen is
+known as FOLFOX.",
