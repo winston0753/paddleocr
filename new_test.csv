@@ -1,0 +1,100 @@
+,0,1,2,3,4,5,6
+0,YOURLAB,,"Accession ID: NGSO-221209001
+Patient Name: LAN ZHENG,MEI-CHAN
+Diagnosis: gastric cancer",,,,Page 40 of 76
+1,Gene/Variant,,"Trial Title
+Trial ID
+Colorectal Cancer
+NCTO2675946",,Treatments,Trial,Location / Contact
+2,"TP53
+p.R248Q
+Tier 2C
+Pathogenic",,"A Phase la/Ib, Open Label, Dose-
+escalation Study of the Combination of
+Combination of BI 9O7828 With BI
+754091(Ezabenlimab) Followed by
+Advanced Solid Tumors
+NCT03964233",,"miptenalimab
+BI 907828
+ezabenlimab","Phasel
+Expansion Cohorts,in Patients With","United States: CT, NY,
+clintriage.rdg@boehri
+nger-ingelheim.com;"
+3,"TP53
+p.R248Q
+g.7674220C>T
+Tier 2C
+Pathogenic",,"A Phase 2 Single-Arm Study of M662O
+in Combination With Irinotecan in
+Patients With Progressive TP53 Mutant
+Gastric and Gastro-Esophageal
+Junction Cancer
+NCT03641313",,"irinotecan
+berzosertib",,"United States: CA, FL,
+OK,TN,UT
+See clinicaltrials.gov
+NCT03641313"
+4,"Individual Variant Interpretations
+
+Classification Tier 2C
+
+
+Classification Tier 2C
+
+
+
+
+
+
+
+
+Allelic Fraction 9.22% (of 206 reads)
+Classification Tier 2C
+
+
+
+
+
+
+
+
+Allelic Fraction 39.0% (of 160 reads)
+Classification Tier 2c","Biomarker TMB-low
+Assessment Uncertain Significance
+Biomarker MS-stable
+Assessment Uncertain Significance
+Gene CDKN2A
+Exon 2
+Nucleotide NM_000077.5:
+
+c.247C>T
+Amino Acid p.H83Y
+Function loss
+Assessment Pathogenic
+Gene KRAS
+Exon 2
+Nucleotide NM_004985.5:
+
+c.35G>C
+Amino Acid p.Gl2A
+Function gain
+Assessment Pathogenic","g.2197112G>A
+g.25245350C>G","Interpretation
+ No information available
+Interpretation
+No information available
+Interpretation
+The CDKN2A gene encodes multiple proteins, including the tumor
+suppressor pl6INK4a (also known as Mtsl), which plays a vital role in cell
+cycle Gl checkpoint regulation and is an inhibitor of Cdk4 activity.
+CDKN2A also encodes pl4ARF, which regulates p53 by interacting with
+Mdm2 [278,232,279].Because the CDKN2A and CDKN2B gene products
+encode proteins that act as tumor suppressors, deletion or loss of activity
+may result in deregulation of the pl6INK4a/Cdk4/Cyclin/Rb and/or the
+Mdm2/p53 pathways, and altered regulation of the cell cycle [72, 279].
+Interpretation
+KRAS is an oncogene that encodes K-Ras, a member of the Ras family of
+membrane proteins that bind GDP/GTP and possess GTPase activity
+Activation of Ras signaling causes cell growth, differentiation, and survival
+human malignancies, with high incidences in pancreatic, colorectal, and
+Iung cancers [65, 84, 64].",,,

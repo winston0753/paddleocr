@@ -1,52 +1,49 @@
-,0,1,2,3,4
-0,,Accession ID:NGSO-221209001,Accession ID:NGSO-221209001,Accession ID:NGSO-221209001,Page 11 of 76
-1,,"Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN"
-2,,Diagnosis: gastric cancer,Diagnosis: gastric cancer,Diagnosis: gastric cancer,Diagnosis: gastric cancer
-3,YOURLAB,YOURLAB,YOURLAB,YOURLAB,YOURLAB
-4,Therapies,Gene/Variant,Response,Therapies Description,Therapies Description
-5,,,,HER2-positive gastric or gastroesophageal junction,HER2-positive gastric or gastroesophageal junction
-6,,,,adenocarcinoma who have received a prior,adenocarcinoma who have received a prior
-7,,,,trastuzumab-based regimen; trastuzumab,trastuzumab-based regimen; trastuzumab
-8,,,,deruxtecan is EMA-approved for treating adult,deruxtecan is EMA-approved for treating adult
-9,,,,patients with unresectable or metastatic HER2,patients with unresectable or metastatic HER2
-10,,,,positive breast cancer who have received one or,positive breast cancer who have received one or
-11,,,,more prior anti-HER2-based regimens.,more prior anti-HER2-based regimens.
-12,Therapeutic Implications for Other Indications,Therapeutic Implications for Other Indications,Therapeutic Implications for Other Indications,Therapeutic Implications for Other Indications,Therapeutic Implications for Other Indications
-13,Therapies for,Therapies for,Therapies for,Therapies for,Therapies for
-14,Other Indications,Gene/Variant,Response,Therapies Description,Therapies Description
-15,cetuximab,cetuximab,cetuximab,"Cetuximab, an epidermal growth factor receptor","Cetuximab, an epidermal growth factor receptor"
-16,,Tier 2C,Tier 2C,"antagonist, is FDA-approved for treating patients","antagonist, is FDA-approved for treating patients"
-17,,Uncertain,Uncertain,with locally or regionally advanced squamous cell,with locally or regionally advanced squamous cell
-18,,Significance,Significance,carcinoma of the head and neck in combination with,carcinoma of the head and neck in combination with
-19,,MS-stable,MS-stable,metastatic squamous cell carcinoma of the head,MS-stable
-20,,Tier 2C,Tier 2C,and neck in combination with platinum-based,and neck in combination with platinum-based
-21,,Uncertain,Uncertain,therapy with 5-FU; recurrent or metastatic,therapy with 5-FU; recurrent or metastatic
-22,,Significance,Significance,squamous cell carcinoma of the head and neck,Significance
-23,,,,progressing after platinum-based therapy; KRAS,progressing after platinum-based therapy; KRAS
-24,,,,"wild-type, EGFR-expressing, metastatic colorectal","wild-type, EGFR-expressing, metastatic colorectal"
-25,,,,cancer in combination with FOLFIRI for first-line,cancer in combination with FOLFIRI for first-line
-26,,,,"treatment, or in combination with irinotecan in","treatment, or in combination with irinotecan in"
-27,,,,patients who are refractory to irinotecan-based,patients who are refractory to irinotecan-based
-28,,,,"chemotherapy, or as a single agent in patients who","chemotherapy, or as a single agent in patients who"
-29,,,,have failed oxaliplatin- and irinotecan-based,have failed oxaliplatin- and irinotecan-based
-30,,,,chemotherapy or who are intolerant to irinotecan,chemotherapy or who are intolerant to irinotecan
-31,,,,cetuximab is EMA-approved for treating patients,cetuximab is EMA-approved for treating patients
-32,,,,"with EGFR-expressing,RAS wild-type metastatic","with EGFR-expressing,RAS wild-type metastatic"
-33,,,,colorectal cancer in combination with irinotecan-,colorectal cancer in combination with irinotecan-
-34,,,,"based chemotherapy, in first-line in combination","based chemotherapy, in first-line in combination"
-35,,,,"with FOLFOX, as a single agent in patients who have","with FOLFOX, as a single agent in patients who have"
-36,,,,failed oxaliplatin- and irinotecan-based therapy and,failed oxaliplatin- and irinotecan-based therapy and
-37,,,,who are intolerant to irinotecan; squamous cell,who are intolerant to irinotecan; squamous cell
-38,,,,cancer of the head and neck in combination with,cancer of the head and neck in combination with
-39,,,,"radiation therapy for locally advanced disease, and in","radiation therapy for locally advanced disease, and in"
-40,,,,combination with platinum-based chemotherapy for,combination with platinum-based chemotherapy for
-41,,,,recurrent and/or metastatic disease.,recurrent and/or metastatic disease.
-42,ipilimumab/,TMB-low,Sensitive,"Nivolumab, a PD-1 blocking antibody, in combination","Nivolumab, a PD-1 blocking antibody, in combination"
-43,nivolumab,Tier 2C,Tier 2C,"with ipilimumab,a CTLA-4 blocking antibody, is","with ipilimumab,a CTLA-4 blocking antibody, is"
-44,,Uncertain,Uncertain,FDA- and EMA-approved for treating patients with,FDA- and EMA-approved for treating patients with
-45,,Significance,Significance,unresectable or metastatic melanoma;for treating,unresectable or metastatic melanoma;for treating
-46,,,,adult patients with metastatic or recurrent non-,adult patients with metastatic or recurrent non-
-47,,,,small cell lung cancer with no EGFR or ALK genomic,small cell lung cancer with no EGFR or ALK genomic
-48,,,,"tumor aberrations as first-line treatment, in","tumor aberrations as first-line treatment, in"
-49,,,,combination with 2 cycles of platinum-doublet,combination with 2 cycles of platinum-doublet
-50,,,,chemotherapy; for treating adult patients with,chemotherapy; for treating adult patients with
+,0,1,2,3,4,5,6
+0,,,Accession ID: NGSO-221209001,Accession ID: NGSO-221209001,Accession ID: NGSO-221209001,Accession ID: NGSO-221209001,Page 40 of 76
+1,,,"Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN","Patient Name: LAN ZHENG,MEI-CHAN"
+2,,,Diagnosis: gastric cancer,Diagnosis: gastric cancer,Diagnosis: gastric cancer,Diagnosis: gastric cancer,Diagnosis: gastric cancer
+3,YOURLAB,YOURLAB,YOURLAB,YOURLAB,YOURLAB,YOURLAB,YOURLAB
+4,,,Trial Title,Trial Title,Trial Title,Trial,Trial
+5,Gene/Variant,Gene/Variant,Trial ID,Trial ID,Treatments,Treatments,Location / Contact
+6,,,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+7,,,NCTO2675946,NCTO2675946,NCTO2675946,NCTO2675946,NCTO2675946
+8,TP53,TP53,"A Phase la/Ib, Open Label, Dose-","A Phase la/Ib, Open Label, Dose-",miptenalimab,Phasel,"United States: CT, NY,"
+9,p.R248Q,p.R248Q,escalation Study of the Combination of,escalation Study of the Combination of,BI 907828,BI 907828,BI 907828
+10,Tier 2C,Tier 2C,Tier 2C,Tier 2C,ezabenlimab,ezabenlimab,ezabenlimab
+11,Pathogenic,Pathogenic,Combination of BI 9O7828 With BI,Combination of BI 9O7828 With BI,Combination of BI 9O7828 With BI,Combination of BI 9O7828 With BI,clintriage.rdg@boehri
+12,,,754091(Ezabenlimab) Followed by,754091(Ezabenlimab) Followed by,754091(Ezabenlimab) Followed by,754091(Ezabenlimab) Followed by,nger-ingelheim.com;
+13,,,Advanced Solid Tumors,Advanced Solid Tumors,Advanced Solid Tumors,"Expansion Cohorts,in Patients With",Advanced Solid Tumors
+14,,,NCT03964233,NCT03964233,NCT03964233,NCT03964233,NCT03964233
+15,TP53,TP53,A Phase 2 Single-Arm Study of M662O,A Phase 2 Single-Arm Study of M662O,irinotecan,irinotecan,"United States: CA, FL,"
+16,p.R248Q,p.R248Q,in Combination With Irinotecan in,in Combination With Irinotecan in,berzosertib,berzosertib,berzosertib
+17,g.7674220C>T,g.7674220C>T,Patients With Progressive TP53 Mutant,Patients With Progressive TP53 Mutant,Patients With Progressive TP53 Mutant,Patients With Progressive TP53 Mutant,"OK,TN,UT"
+18,Tier 2C,Tier 2C,Gastric and Gastro-Esophageal,Gastric and Gastro-Esophageal,Gastric and Gastro-Esophageal,Gastric and Gastro-Esophageal,See clinicaltrials.gov
+19,Pathogenic,Pathogenic,Junction Cancer,Junction Cancer,Junction Cancer,Junction Cancer,NCT03641313
+20,,,NCT03641313,NCT03641313,NCT03641313,NCT03641313,NCT03641313
+21,Individual Variant Interpretations,Individual Variant Interpretations,Individual Variant Interpretations,Individual Variant Interpretations,Individual Variant Interpretations,Individual Variant Interpretations,Individual Variant Interpretations
+22,,Biomarker TMB-low,Biomarker TMB-low,Interpretation,Interpretation,Interpretation,Interpretation
+23,Classification Tier 2C,Classification Tier 2C,Classification Tier 2C, No information available, No information available, No information available, No information available
+24,,Assessment Uncertain Significance,Assessment Uncertain Significance,Assessment Uncertain Significance,Assessment Uncertain Significance,Assessment Uncertain Significance,Assessment Uncertain Significance
+25,,Biomarker MS-stable,Biomarker MS-stable,Interpretation,Interpretation,Interpretation,Interpretation
+26,Classification Tier 2C,Classification Tier 2C,Classification Tier 2C,No information available,No information available,No information available,No information available
+27,,Assessment Uncertain Significance,Assessment Uncertain Significance,Assessment Uncertain Significance,Assessment Uncertain Significance,Assessment Uncertain Significance,Assessment Uncertain Significance
+28,,Gene CDKN2A,Gene CDKN2A,Interpretation,Interpretation,Interpretation,Interpretation
+29,,Exon 2,Exon 2,"The CDKN2A gene encodes multiple proteins, including the tumor","The CDKN2A gene encodes multiple proteins, including the tumor","The CDKN2A gene encodes multiple proteins, including the tumor","The CDKN2A gene encodes multiple proteins, including the tumor"
+30,,Nucleotide NM_000077.5:,Nucleotide NM_000077.5:,"suppressor pl6INK4a (also known as Mtsl), which plays a vital role in cell","suppressor pl6INK4a (also known as Mtsl), which plays a vital role in cell",Nucleotide NM_000077.5:,"suppressor pl6INK4a (also known as Mtsl), which plays a vital role in cell"
+31,,,g.2197112G>A,cycle Gl checkpoint regulation and is an inhibitor of Cdk4 activity.,cycle Gl checkpoint regulation and is an inhibitor of Cdk4 activity.,cycle Gl checkpoint regulation and is an inhibitor of Cdk4 activity.,cycle Gl checkpoint regulation and is an inhibitor of Cdk4 activity.
+32,,c.247C>T,c.247C>T,"CDKN2A also encodes pl4ARF, which regulates p53 by interacting with","CDKN2A also encodes pl4ARF, which regulates p53 by interacting with",c.247C>T,"CDKN2A also encodes pl4ARF, which regulates p53 by interacting with"
+33,,Amino Acid p.H83Y,Amino Acid p.H83Y,"Mdm2 [278,232,279].Because the CDKN2A and CDKN2B gene products","Mdm2 [278,232,279].Because the CDKN2A and CDKN2B gene products","Mdm2 [278,232,279].Because the CDKN2A and CDKN2B gene products","Mdm2 [278,232,279].Because the CDKN2A and CDKN2B gene products"
+34,,Function loss,Function loss,"encode proteins that act as tumor suppressors, deletion or loss of activity","encode proteins that act as tumor suppressors, deletion or loss of activity",Function loss,"encode proteins that act as tumor suppressors, deletion or loss of activity"
+35,Allelic Fraction 9.22% (of 206 reads),Allelic Fraction 9.22% (of 206 reads),Allelic Fraction 9.22% (of 206 reads),may result in deregulation of the pl6INK4a/Cdk4/Cyclin/Rb and/or the,may result in deregulation of the pl6INK4a/Cdk4/Cyclin/Rb and/or the,may result in deregulation of the pl6INK4a/Cdk4/Cyclin/Rb and/or the,may result in deregulation of the pl6INK4a/Cdk4/Cyclin/Rb and/or the
+36,Classification Tier 2C,Classification Tier 2C,Classification Tier 2C,"Mdm2/p53 pathways, and altered regulation of the cell cycle [72, 279].","Mdm2/p53 pathways, and altered regulation of the cell cycle [72, 279].","Mdm2/p53 pathways, and altered regulation of the cell cycle [72, 279].","Mdm2/p53 pathways, and altered regulation of the cell cycle [72, 279]."
+37,,Assessment Pathogenic,Assessment Pathogenic,Assessment Pathogenic,Assessment Pathogenic,Assessment Pathogenic,Assessment Pathogenic
+38,,Gene KRAS,Gene KRAS,Interpretation,Interpretation,Interpretation,Interpretation
+39,,Exon 2,Exon 2,"KRAS is an oncogene that encodes K-Ras, a member of the Ras family of","KRAS is an oncogene that encodes K-Ras, a member of the Ras family of","KRAS is an oncogene that encodes K-Ras, a member of the Ras family of","KRAS is an oncogene that encodes K-Ras, a member of the Ras family of"
+40,,Nucleotide NM_004985.5:,Nucleotide NM_004985.5:,membrane proteins that bind GDP/GTP and possess GTPase activity,membrane proteins that bind GDP/GTP and possess GTPase activity,Nucleotide NM_004985.5:,membrane proteins that bind GDP/GTP and possess GTPase activity
+41,,,g.25245350C>G,"Activation of Ras signaling causes cell growth, differentiation, and survival","Activation of Ras signaling causes cell growth, differentiation, and survival",g.25245350C>G,"Activation of Ras signaling causes cell growth, differentiation, and survival"
+42,,c.35G>C,c.35G>C,c.35G>C,c.35G>C,c.35G>C,c.35G>C
+43,,Amino Acid p.Gl2A,Amino Acid p.Gl2A,Amino Acid p.Gl2A,Amino Acid p.Gl2A,Amino Acid p.Gl2A,Amino Acid p.Gl2A
+44,,Function gain,Function gain,"human malignancies, with high incidences in pancreatic, colorectal, and","human malignancies, with high incidences in pancreatic, colorectal, and",Function gain,"human malignancies, with high incidences in pancreatic, colorectal, and"
+45,Allelic Fraction 39.0% (of 160 reads),Allelic Fraction 39.0% (of 160 reads),Allelic Fraction 39.0% (of 160 reads),"Iung cancers [65, 84, 64].","Iung cancers [65, 84, 64].","Iung cancers [65, 84, 64].","Iung cancers [65, 84, 64]."
+46,Classification Tier 2c,Classification Tier 2c,Classification Tier 2c,Classification Tier 2c,Classification Tier 2c,Classification Tier 2c,Classification Tier 2c
+47,,Assessment Pathogenic,Assessment Pathogenic,Assessment Pathogenic,Assessment Pathogenic,Assessment Pathogenic,Assessment Pathogenic
