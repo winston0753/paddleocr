@@ -25,3 +25,5 @@ PaddleOCR New utilizes the OCR model to train column and horizontal recognition 
 ![](2023-07-26-00-56-44.png)
 ![](2023-07-26-00-56-54.png)
 ![](2023-07-26-00-57-04.png)
+
+### Currently figuring out how to distinguish and group the second type of table where row entries do not alternate colors. Can add condition to currrent function or write another specifically for the other range.
